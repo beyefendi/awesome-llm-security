@@ -42,8 +42,11 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 - [**AgentBench**](https://github.com/THUDM/AgentBench): Benchmark to evaluate LLMs as agents ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
 - [**Agentic Radar**](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [**MCP Scanner**](https://github.com/cisco-ai-defense/mcp-scanner) ![GitHub Repo stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=social)
 - [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security): Curated list of MCP security resources ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social)
+- [**MCP Shield**](https://github.com/riseandignite/mcp-shield) ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social)
 - [**Invariant**](https://github.com/invariantlabs-ai/invariant): Trace analysis tool for AI agents ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social)
+- [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social)
 - [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security): LLM agent security resources, attacks, vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp): MCP server for scanning code for SQL injection, XSS, secrets exposure, prompt injection, and AI-hallucinated package detection. ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social)
@@ -102,13 +105,15 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social)
 - [**Easy Jailbreak**](https://github.com/EasyJailbreak/EasyJailbreak): Python framework to generate adversarial jailbreak prompts ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social)
 - [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms) ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social)
----
 
+---
 
 ## 🧩 Threat Modeling
 
 - [**ThreatModels**](https://github.com/jsotiro/ThreatModels/tree/main): Repository for LLM threat models
 - [**Pangea Attack Taxonomy**](https://pangea.cloud/resources/taxonomy/): Comprehensive taxonomy of AI/LLM attacks and vulnerabilities
+- [**AI Risk Taxonomy**](https://airisk.mit.edu/)
+- [**AIR-Bench 2024**](https://crfm.stanford.edu/helm/air-bench/latest/)
 
 ---
 
