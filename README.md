@@ -56,8 +56,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 ### 🧑‍💻 RAG Security
 
 - [**PoisonedRAG**](https://github.com/sleeepeer/PoisonedRAG): Poisoned RAG systems ![GitHub stars](https://img.shields.io/github/stars/sleeepeer/PoisonedRAG?style=social)
-- [RAG Attacks and Mitigations](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG): RAG attacks, mitigations, and defense strategies
-- [Awesome Jailbreak on LLMs - RAG Attacks](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#attack-on-rag-based-llm): RAG-based LLM attack techniques
+- [**RAG Attacks and Mitigations**](https://github.com/wearetyomsmnv/Adversarial-AI---Attacks-Mitigations-and-Defense-Strategies/tree/main/ch15/RAG): RAG attacks, mitigations, and defense strategies
+- [**Awesome Jailbreak on LLMs - RAG Attacks**](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs?tab=readme-ov-file#attack-on-rag-based-llm): RAG-based LLM attack techniques
 
 ---
 
@@ -122,6 +122,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Gandalf**](https://gandalf.lakera.ai/): Prompt injection wargame
 - [**Damn Vulnerable LLM Agent**](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?style=social)
 - [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app) ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social)
+- [**PromptMe**](https://github.com/R3dShad0w7/PromptMe) ![GitHub Repo stars](https://img.shields.io/github/stars/R3dShad0w7/PromptMe?style=social)
 
 ---
 
