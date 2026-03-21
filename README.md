@@ -24,7 +24,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 ## 🛠️ Tools
 
 
-### 🧰 Multi-Purpose Scanners & Tools
+### 🧰 Multi-Purpose Model Scanners & Tools
 
 - [**promptfoo**](https://github.com/promptfoo/promptfoo): LLM red teaming and evaluation framework with adversarial attacks (jailbreaks, prompt injection, PAIR, tree-of-attacks). CI/CD integration. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [**Garak**](https://github.com/leondz/garak/): LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
@@ -32,6 +32,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**LLM Guard**](https://github.com/laiyer-ai/llm-guard): Security toolkit for LLM interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 - [**Agentic Security**](https://github.com/msoedov/agentic_security): Security toolkit for AI agents ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
 - [**DeepTeam**](https://github.com/confident-ai/deepteam): Modular LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks). ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
+- [**AI-Scanner**](https://github.com/0din-ai/ai-scanner) : AI model safety scanner built on NVIDIA garak ![GitHub stars](https://img.shields.io/github/stars/0din-ai/ai-scanner?style=social)
 - [**LLaMator**](https://github.com/RomiconEZ/LLaMator): Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
 - [**Plexiglass**](https://github.com/kortex-labs/plexiglass): Security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [**LLMmap**](https://github.com/pasquini-dario/LLMmap): Tool for mapping LLM vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social)
@@ -71,6 +72,15 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**LLMFuzzer**](https://github.com/mnns/LLMFuzzer): Fuzzing framework for LLM prompt generation. ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social)
 - [**Spikee**](https://github.com/ReversecLabs/spikee): Prompt injection toolkit. ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?color=gold)
 - [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation. ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social)
+
+---
+
+### 🗡️ Autonomous Pentesting Frameworks
+
+- [**strix**](https://github.com/usestrix/strix) [GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
+- [**PentAGI**](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social)
+[**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
+- [**BreachSeek - PENA**](https://github.com/snow10100/pena) ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social)
 
 ---
 
