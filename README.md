@@ -29,7 +29,6 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**promptfoo**](https://github.com/promptfoo/promptfoo): LLM red teaming and evaluation framework with adversarial attacks (jailbreaks, prompt injection, PAIR, tree-of-attacks). CI/CD integration. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 - [**Garak**](https://github.com/leondz/garak/): LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
 - [**AI-Infra-Guard**](https://github.com/Tencent/AI-Infra-Guard/): LLM vulnerability scanner with Web UI, REST APIs, and Docker-based deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
-- [**Inkog**](https://github.com/inkog-io/inkog): Open-source AI agent security scanner (CLI + MCP server). Detects prompt injection, SQL injection via LLM, infinite loops, token bombing, and missing human oversight across 20+ frameworks including LangChain, CrewAI, AutoGen, and LangGraph. Compliance mapping to EU AI Act and OWASP LLM Top 10. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
 - [**LLM Guard**](https://github.com/laiyer-ai/llm-guard): Security toolkit for LLM interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
 - [**Agentic Security**](https://github.com/msoedov/agentic_security): Security toolkit for AI agents ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
 - [**DeepTeam**](https://github.com/confident-ai/deepteam): Modular LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks). ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
@@ -37,6 +36,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**LLaMator**](https://github.com/RomiconEZ/LLaMator): Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
 - [**Plexiglass**](https://github.com/kortex-labs/plexiglass): Security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
 - [**LLMmap**](https://github.com/pasquini-dario/LLMmap): Tool for mapping LLM vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social)
+- [**Inkog**](https://github.com/inkog-io/inkog): AI agent security scanner (CLI + MCP server). Detects prompt injection, SQL injection via LLM, including LangChain, CrewAI, AutoGen, and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
 
 ---
 
@@ -80,7 +80,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 - [**strix**](https://github.com/usestrix/strix) [GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
 - [**PentAGI**](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social)
-[**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
+- [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
 - [**BreachSeek - PENA**](https://github.com/snow10100/pena) ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social)
 
 ---
