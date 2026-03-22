@@ -52,6 +52,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security): LLM agent security resources, attacks, vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp): MCP server for scanning code for SQL injection, XSS, secrets exposure, prompt injection, and AI-hallucinated package detection. ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social)
+- [**Cerberus**](https://github.com/Odingard/cerberus): Agentic AI runtime security platform ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social)
+- [**ziran**](https://github.com/taoq-ai/ziran): Security testing framework for AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 
 ---
 
@@ -78,7 +80,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 ### 🗡️ Autonomous Pentesting Frameworks
 
-- [**strix**](https://github.com/usestrix/strix) [GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
+- [**strix**](https://github.com/usestrix/strix) ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
 - [**PentAGI**](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social)
 - [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
 - [**BreachSeek - PENA**](https://github.com/snow10100/pena) ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social)
@@ -101,6 +103,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social)
 - [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Tool for ensuring confidentiality in LLMs ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social)
 - [**LocalMod**](https://github.com/KOKOSde/localmod): Self-hosted content moderation API with prompt injection detection, toxicity filtering, PII detection, and NSFW filtering ![GitHub stars](https://img.shields.io/github/stars/KOKOSde/localmod?style=social)
+- [**ShellWard**](https://github.com/jnMetaCode/shellward): AI Agent security middleware ![GitHub Repo stars](https://img.shields.io/github/stars/jnMetaCode/shellward?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability tokens for AI agents with task-scoped TTLs, offline verification, and proof-of-possession binding ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): 11-tool defensive security suite for AI agent workspaces (prompt injection defense, integrity verification, secret scanning, supply chain analysis). Pure Python stdlib, zero dependencies, local-only execution. ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social)
 - [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture. ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social)
