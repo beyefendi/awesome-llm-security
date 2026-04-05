@@ -84,16 +84,17 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 ### 🗡️ Autonomous Pentesting Frameworks
 
-- [**PentestGPT**](https://github.com/GreyDGL/PentestGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)
+- [**Shannon**](https://github.com/KeygraphHQ/shannon) ![GitHub Repo stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social)
 - [**Strix**](https://github.com/usestrix/strix) ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
 - [**PentAGI**](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social)
+- [**PentestGPT**](https://github.com/GreyDGL/PentestGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)
 - [**CAI**](https://github.com/aliasrobotics/cai) ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social)
-- [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social)
-- [**Shannon**](https://github.com/KeygraphHQ/shannon) ![GitHub Repo stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social)
 - [**PentestAgent**](https://github.com/GH05TCREW/pentestagent) ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social)
+- [**Raptor**](https://github.com/gadievron/raptor) ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social)
+- [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social)
+- [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot) ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social)
 - [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
 - [**BreachSeek - PENA**](https://github.com/snow10100/pena) ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social)
-- [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot) ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social)
 
 ---
 
@@ -102,7 +103,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Guardrails**](https://github.com/guardrails-ai/guardrails): Add structured validation and policy enforcement for LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?color=gold)
 - [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social)
 - [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
-- [**PyRIT**](https://github.com/microsoft/PyRIT): Python Risk Identification Tool for generative AI ![GitHub stars](https://img.shields.io/github/stars/microsoft/PyRIT](https://github.com/microsoft/PyRIT)?style=social)
+- [**PyRIT**](https://github.com/microsoft/PyRIT): Python Risk Identification Tool for generative AI ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/PyRIT?style=social)
 - [**LLM-Guard**](https://github.com/protectai/llm-guard): Tool for securing LLM interactions (replaced rebuff) ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social)
 - [**LangKit**](https://github.com/whylabs/langkit): Functions for jailbreak detection, prompt injection, and sensitive information detection ![GitHub stars](https://img.shields.io/github/stars/whylabs/langkit?style=social)
 - [**Prompt Injection Defenses**](https://github.com/tldrsec/prompt-injection-defenses): Practical and proposed defenses against prompt injection. ![GitHub Repo stars](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social)
