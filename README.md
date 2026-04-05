@@ -33,10 +33,10 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Agentic Security**](https://github.com/msoedov/agentic_security): Security toolkit for AI agents ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
 - [**DeepTeam**](https://github.com/confident-ai/deepteam): Modular LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks). ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
 - [**AI-Scanner**](https://github.com/0din-ai/ai-scanner) : AI model safety scanner built on NVIDIA garak ![GitHub stars](https://img.shields.io/github/stars/0din-ai/ai-scanner?style=social)
-- [**LLaMator**](https://github.com/RomiconEZ/LLaMator): Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
 - [**LLMmap**](https://github.com/pasquini-dario/LLMmap): Tool for mapping LLM vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social)
+- [**LLaMator**](https://github.com/RomiconEZ/LLaMator): Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
 - [**Plexiglass**](https://github.com/kortex-labs/plexiglass): Security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
-- [**Inkog**](https://github.com/inkog-io/inkog): AI agent security scanner (CLI + MCP server). Detects prompt injection, SQL injection via LLM, including LangChain, CrewAI, AutoGen, and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
+- [**Inkog**](https://github.com/inkog-io/inkog): AI agent security scanner (CLI + MCP server). Detects prompt injection, SQL injection via LLM. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
 
 ---
 
@@ -50,14 +50,14 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Invariant**](https://github.com/invariantlabs-ai/invariant): Trace analysis tool for AI agents ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social)
 - [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social)
 - [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp): MCP server for scanning code for SQL injection, XSS, secrets exposure, prompt injection, and AI-hallucinated package detection. ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social)
+- [**Agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules): Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
 - [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security): LLM agent security resources, attacks, vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
-- [**ziran**](https://github.com/taoq-ai/ziran): Security testing framework for AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
+- [**Ziran**](https://github.com/taoq-ai/ziran): Security testing framework for AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 - [**Cerberus**](https://github.com/Odingard/cerberus): Agentic AI runtime security platform ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social)
-- [**mcps-audit**](https://github.com/razashariff/mcps-audit): OWASP Security Scanner for MCP Servers. ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social)
-- [**agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules): Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
+- [**MCPs-audit**](https://github.com/razashariff/mcps-audit): OWASP Security Scanner for MCP Servers. ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social)
 - [**clawguard**](https://github.com/NeuZhou/clawguard): Firewall for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social)
-- [**Agent Guard**](https://github.com/Aveerayy/agent-guard): Runtime governance firewall for AI agents — policy enforcement, MCP tool scanning (injection, typosquatting, hidden unicode), zero-trust Ed25519 identity, execution sandboxing, and kill switch. 10/10 OWASP Agentic Top 10. One pip install. ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social)
+- [**Agent Guard**](https://github.com/Aveerayy/agent-guard): Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning.  ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social)
 
 ---
 
@@ -84,27 +84,33 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 ### 🗡️ Autonomous Pentesting Frameworks
 
-- [**strix**](https://github.com/usestrix/strix) ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
+- [**PentestGPT**](https://github.com/GreyDGL/PentestGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social)
+- [**Strix**](https://github.com/usestrix/strix) ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social)
 - [**PentAGI**](https://github.com/vxcontrol/pentagi) ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social)
+- [**CAI**](https://github.com/aliasrobotics/cai) ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social)
+- [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT) ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social)
+- [**Shannon**](https://github.com/KeygraphHQ/shannon) ![GitHub Repo stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social)
+- [**PentestAgent**](https://github.com/GH05TCREW/pentestagent) ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social)
 - [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests. ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social)
 - [**BreachSeek - PENA**](https://github.com/snow10100/pena) ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social)
+- [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot) ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social)
 
 ---
 
 ### 🛡️ Defensive & Guardrail Tools
 
 - [**Guardrails**](https://github.com/guardrails-ai/guardrails): Add structured validation and policy enforcement for LLMs. ![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?color=gold)
-- [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Tool that protects against jailbreak and hallucinations with customizable rulesets ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social)
+- [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social)
 - [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META. ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social)
-- [**PyRIT**](https://github.com/Azure/PyRIT): Python Risk Identification Tool for generative AI ![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=social)
+- [**PyRIT**](https://github.com/microsoft/PyRIT): Python Risk Identification Tool for generative AI ![GitHub stars](https://img.shields.io/github/stars/microsoft/PyRIT](https://github.com/microsoft/PyRIT)?style=social)
 - [**LLM-Guard**](https://github.com/protectai/llm-guard): Tool for securing LLM interactions (replaced rebuff) ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social)
 - [**LangKit**](https://github.com/whylabs/langkit): Functions for jailbreak detection, prompt injection, and sensitive information detection ![GitHub stars](https://img.shields.io/github/stars/whylabs/langkit?style=social)
 - [**Prompt Injection Defenses**](https://github.com/tldrsec/prompt-injection-defenses): Practical and proposed defenses against prompt injection. ![GitHub Repo stars](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social)
 - [**Vigil**](https://github.com/deadbits/vigil-llm): Prompt injection detection toolkit and REST API for LLM security risk scoring. ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social)
 - [**Plexiglass**](https://github.com/safellama/plexiglass): Security tool for LLM applications ![GitHub stars](https://img.shields.io/github/stars/safellama/plexiglass?style=social)
 - [**Last Layer**](https://github.com/arekusandr/last_layer): Low-latency pre-filter for prompt injection prevention. ![GitHub Repo stars](https://img.shields.io/github/stars/arekusandr/last_layer?style=social)
+- [**Veritensor**](https://github.com/ArseniiBrazhnyk/Veritensor): AI model scanner to detect Pickle/PyTorch malware, check licenses, and verify HF hashes. ![GitHub Repo stars](https://img.shields.io/github/stars/ArseniiBrazhnyk/Veritensor?style=social)
 - [**ShellWard**](https://github.com/jnMetaCode/shellward): AI Agent security middleware ![GitHub Repo stars](https://img.shields.io/github/stars/jnMetaCode/shellward?style=social)
-- [**Veritensor**](https://github.com/ArseniiBrazhnyk/Veritensor): Scanner for AI models to detect Pickle/PyTorch malware, check licenses, and verify HF hashes. ![GitHub Repo stars](https://img.shields.io/github/stars/ArseniiBrazhnyk/Veritensor?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability tokens for AI agents with task-scoped TTLs, offline verification, and proof-of-possession binding ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 - [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social)
 - [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Tool for ensuring confidentiality in LLMs ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social)
@@ -119,9 +125,9 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 
 - [**JailbreakBench**](https://jailbreakbench.github.io/): Evaluating and analyzing jailbreak methods for LLMs
 - [**L1B3RT45**](https://github.com/elder-plinius/L1B3RT45/): AI jailbreaking tools ![GitHub stars](https://img.shields.io/github/stars/elder-plinius/L1B3RT45?style=social)
-- [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social)
-- [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social)
 - [**Easy Jailbreak**](https://github.com/EasyJailbreak/EasyJailbreak): Python framework to generate adversarial jailbreak prompts ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social)
+- [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social)
+- [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social)
 - [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms) ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social)
 
 ---
@@ -159,8 +165,8 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [LMSanitator](https://github.com/meng-wenlong/LMSanitator): Defending LLMs against stealthy prompt injection ![GitHub stars](https://img.shields.io/github/stars/meng-wenlong/LMSanitator?style=social)
 - [Virtual Prompt Injection](https://github.com/wegodev2/virtual-prompt-injection): Tool for virtual prompt injection ![GitHub stars](https://img.shields.io/github/stars/wegodev2/virtual-prompt-injection?style=social)
 - [CBA](https://github.com/MiracleHH/CBA): Consciousness-Based Authentication for LLM Security ![GitHub stars](https://img.shields.io/github/stars/MiracleHH/CBA?style=social)
-- [MuScleLoRA](https://github.com/ZrW00/MuScleLoRA): Multi-scenario backdoor fine-tuning of LLMs ![GitHub stars](https://img.shields.io/github/stars/ZrW00/MuScleLoRA?style=social)
 - [PromptWare](https://github.com/StavC/PromptWares): PromptWares for GenAI-powered applications ![GitHub stars](https://img.shields.io/github/stars/StavC/PromptWares?style=social)
+- [MuScleLoRA](https://github.com/ZrW00/MuScleLoRA): Multi-scenario backdoor fine-tuning of LLMs ![GitHub stars](https://img.shields.io/github/stars/ZrW00/MuScleLoRA?style=social)
 - [TrojText](https://github.com/UCF-ML-Research/TrojText): Trojan attacks on text classifiers ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social)
 - [BadActs](https://github.com/clearloveclearlove/BadActs): Backdoor attacks via activation steering ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social)
 - [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama): Backdoor attacks on fine-tuned LLaMA ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social)
@@ -171,7 +177,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 ## 🎥 Courses
 
 - [AI Security Explained](https://www.youtube.com/playlist?list=PLOspHqNVtKADin6JGozvzSvUQFTQRdum-): Short essential theoretical knowledge.
-- [AI Agents for Pentest](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls)
+- [AI Agents for Pentest](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls): Using agents for penetration testing.
 - [Prompt Injection and Jailbreaking](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW): Practical short lab studies.
 
 ---
