@@ -57,6 +57,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**mcps-audit**](https://github.com/razashariff/mcps-audit): OWASP Security Scanner for MCP Servers. ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social)
 - [**agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules): Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
 - [**clawguard**](https://github.com/NeuZhou/clawguard): Firewall for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social)
+- [**Agent Guard**](https://github.com/Aveerayy/agent-guard): Runtime governance firewall for AI agents — policy enforcement, MCP tool scanning (injection, typosquatting, hidden unicode), zero-trust Ed25519 identity, execution sandboxing, and kill switch. 10/10 OWASP Agentic Top 10. One pip install. ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social)
 
 ---
 
