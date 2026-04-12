@@ -24,40 +24,40 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 ## 🛠️ Tools
 
 
-### 🧰 Multi-Purpose Model Scanners & Tools
+### 🧰 Multi-Purpose Model Scanners
 
-- [**promptfoo**](https://github.com/promptfoo/promptfoo): LLM red teaming and evaluation framework with adversarial attacks (jailbreaks, prompt injection, PAIR, tree-of-attacks). CI/CD integration. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
-- [**Garak**](https://github.com/leondz/garak/): LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
-- [**AI-Infra-Guard**](https://github.com/Tencent/AI-Infra-Guard/): LLM vulnerability scanner with Web UI, REST APIs, and Docker-based deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
-- [**LLM Guard**](https://github.com/laiyer-ai/llm-guard): Security toolkit for LLM interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
-- [**Agentic Security**](https://github.com/msoedov/agentic_security): Security toolkit for AI agents ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
-- [**DeepTeam**](https://github.com/confident-ai/deepteam): Modular LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks). ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
-- [**AI-Scanner**](https://github.com/0din-ai/ai-scanner) : AI model safety scanner built on NVIDIA garak ![GitHub stars](https://img.shields.io/github/stars/0din-ai/ai-scanner?style=social)
-- [**LLMmap**](https://github.com/pasquini-dario/LLMmap): Tool for mapping LLM vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social)
-- [**LLaMator**](https://github.com/RomiconEZ/LLaMator): Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
-- [**Plexiglass**](https://github.com/kortex-labs/plexiglass): Security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
-- [**Inkog**](https://github.com/inkog-io/inkog): AI agent security scanner (CLI + MCP server). Detects prompt injection, SQL injection via LLM. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
+- [**promptfoo**](https://github.com/promptfoo/promptfoo) LLM red teaming and evaluation framework with CI/CD integration ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
+- [**Garak**](https://github.com/leondz/garak/) LLM vulnerability scanner ![GitHub Repo stars](https://img.shields.io/github/stars/leondz/garak?style=social)
+- [**AI-Infra-Guard**](https://github.com/Tencent/AI-Infra-Guard/) LLM vulnerability scanner with Web UI, REST APIs, and Dockerized ![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?color=gold)
+- [**LLM Guard**](https://github.com/laiyer-ai/llm-guard) Security toolkit for LLM interactions ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social)
+- [**Agentic Security**](https://github.com/msoedov/agentic_security) Security toolkit for AI agents ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social)
+- [**DeepTeam**](https://github.com/confident-ai/deepteam) LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks). ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social)
+- [**AI-Scanner**](https://github.com/0din-ai/ai-scanner) AI model safety scanner built on NVIDIA garak ![GitHub stars](https://img.shields.io/github/stars/0din-ai/ai-scanner?style=social)
+- [**LLMmap**](https://github.com/pasquini-dario/LLMmap) Tool for mapping LLM vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social)
+- [**LLaMator**](https://github.com/RomiconEZ/LLaMator) Framework for testing vulnerabilities of LLMs ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social)
+- [**Plexiglass**](https://github.com/kortex-labs/plexiglass) Security toolbox for testing and safeguarding LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social)
+- [**Inkog**](https://github.com/inkog-io/inkog) AI agent security scanner (CLI + MCP server) Detects prompt injection, SQL injection via LLM. ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social)
 
 ---
 
 ### 🤖 MCP & Agent Scanners
 
 - [**AgentBench**](https://github.com/THUDM/AgentBench): Benchmark to evaluate LLMs as agents ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social)
-- [**Agentic Radar**](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-- [**MCP Scanner**](https://github.com/cisco-ai-defense/mcp-scanner) ![GitHub Repo stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=social)
-- [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security): Curated list of MCP security resources ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social)
-- [**MCP Shield**](https://github.com/riseandignite/mcp-shield) ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social)
-- [**Invariant**](https://github.com/invariantlabs-ai/invariant): Trace analysis tool for AI agents ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social)
-- [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social)
-- [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp): MCP server for scanning code for SQL injection, XSS, secrets exposure, prompt injection, and AI-hallucinated package detection. ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social)
+- [**Agentic Radar**](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
+- [**MCP Scanner**](https://github.com/cisco-ai-defense/mcp-scanner) Scan MCP servers for potential threats & security findings ![GitHub Repo stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=social)
+- [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security) Curated list of MCP security resources ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social)
+- [**MCP Shield**](https://github.com/riseandignite/mcp-shield) Security scanner for MCP servers ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social)
+- [**Invariant**](https://github.com/invariantlabs-ai/invariant) Trace analysis tool for AI agents ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social)
+- [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) Automated MCP safety auditing and remediation using Agents ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social)
+- [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp) MCP server for scanning code for web vulnerabilities, prompt injection, and AI-hallucinated package detection ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social)
 - [**Agent-threat-rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules): Open detection standard for AI agent threats. Like Sigma, but for prompt injection, tool poisoning, and MCP attacks. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
-- [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security): LLM agent security resources, attacks, vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social)
 - [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+- [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security): LLM agent security resources, attacks, vulnerabilities ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social)
 - [**Ziran**](https://github.com/taoq-ai/ziran): Security testing framework for AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social)
 - [**Cerberus**](https://github.com/Odingard/cerberus): Agentic AI runtime security platform ![GitHub Repo stars](https://img.shields.io/github/stars/Odingard/cerberus?style=social)
-- [**MCPs-audit**](https://github.com/razashariff/mcps-audit): OWASP Security Scanner for MCP Servers. ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social)
-- [**clawguard**](https://github.com/NeuZhou/clawguard): Firewall for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social)
-- [**Agent Guard**](https://github.com/Aveerayy/agent-guard): Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning.  ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social)
+- [**clawguard**](https://github.com/NeuZhou/clawguard): Firewall for AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/NeuZhou/clawguard?style=social)
+- [**MCPs-audit**](https://github.com/razashariff/mcps-audit): OWASP Security Scanner for MCP Servers ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social)
+- [**Agent Guard**](https://github.com/Aveerayy/agent-guard): Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning  ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social)
 
 ---
 
