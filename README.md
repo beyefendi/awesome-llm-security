@@ -120,6 +120,7 @@ A curated list of awesome tools, documents, and projects about LLM Security.
 - [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer for AI agents that blocks unsafe actions before execution, enforces MACI separation of powers, and keeps tamper-evident audit trails. ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social)
 - [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture. ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social)
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
+- [**Aigis**](https://github.com/killertcell428/aigis): Zero-dependency Python firewall for AI agents. 180+ patterns across OWASP LLM Top 10, StruQ-style structured prompts, goal-conditioned FSM, RAG context filter, MCP 3-stage scanning, MemoryGraft defence, judge-manipulation detection. Multi-layer: 4 walls + L4-L7 capability/AEP/safety/FSM. ![GitHub stars](https://img.shields.io/github/stars/killertcell428/aigis?style=social)
 
 ---
 
