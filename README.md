@@ -120,6 +120,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+- [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 
 ---
 
