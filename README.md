@@ -42,6 +42,7 @@
 ### 🤖 MCP & Agent Scanners
 
 - ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=social) [**AgentBench**](https://github.com/THUDM/AgentBench): Benchmark to evaluate LLMs as agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit) Free no-login browser self-check and launch-readiness sample report for AI-agent workflows, mapped to OWASP Agentic/LLM and NIST AI 600-1 themes.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social) [**Agentic Radar**](https://github.com/splx-ai/agentic-radar) Open-source CLI security scanner for agentic workflows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=social) [**MCP Scanner**](https://github.com/cisco-ai-defense/mcp-scanner) Scan MCP servers for potential threats & security findings
 - ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social) [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security) Curated list of MCP security resources
