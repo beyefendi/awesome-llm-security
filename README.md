@@ -124,6 +124,8 @@
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
+- [![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social)](https://github.com/lelu-ai/lelu) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine for AI agents — gates each tool call on prompt-injection detection, model confidence (from logprobs), and Rego policy; returns allow / deny / human-review / safe-alternative.
+
 
 ---
 
