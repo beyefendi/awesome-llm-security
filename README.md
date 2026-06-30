@@ -135,6 +135,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 - ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
+- ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Two axis prompt-injection benchmark - detection rate AND false positives
 
 ---
 
