@@ -53,6 +53,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
+- ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
 
 ---
 
@@ -112,16 +113,24 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jnMetaCode/shellward?style=social) [**ShellWard**](https://github.com/jnMetaCode/shellward): AI Agent security middleware
 - ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/ai-evaluation?style=social) [**AI Evaluation**](https://github.com/future-agi/ai-evaluation): Guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArseniiBrazhnyk/Veritensor?style=social) [**Veritensor**](https://github.com/ArseniiBrazhnyk/Veritensor): AI model scanner to detect Pickle/PyTorch malware, check licenses, and verify HF hashes
-- ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub stars](https://img.shields.io/github/stars/killertcell428/aigis?style=social) [**Aigis**](https://github.com/killertcell428/aigis): Firewall for AI agents. OWASP LLM Top 10, RAG context filter, MCP 3-stage scanning
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social) [**Agent Browser Shield**](https://github.com/pixiebrix/agent-browser-shield): Browser extension stripping prompt injection and masking PII before pages reach an agent
 - ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social) [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Ensuring confidentiality in LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aisecuritygateway/aisecuritygateway?style=social) [**AI Security Gateway**](https://github.com/aisecuritygateway/aisecuritygateway): LLM firewall with PII redaction, prompt injection blocking for LLM APIs.  
 - ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social) [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): Defensive security suite for AI agent workspaces (prompt injection, integrity verification, secret scanning, supply chain analysis)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer for AI agents that blocks unsafe actions before execution, tamper-evident audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+
+---
+
+### 🔐 Agent Authorization & Governance
+
+- ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
+- ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
 
@@ -135,6 +144,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 - ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
+- ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Benchmark for prompt-injection detectors scoring catch-rate and false positives
 
 ---
 
