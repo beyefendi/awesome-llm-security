@@ -145,6 +145,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
 - ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Benchmark for prompt-injection detectors scoring catch-rate and false positives
+- ![GitHub stars](https://img.shields.io/github/stars/HeliumTrades/helium-model-worldview-benchmark?style=social) [**Helium Model Worldview Benchmark**](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark): 304 paired cue-swap prompts measuring refusal/bias flip consistency (complements BBQ/DecodingTrust); public twelve-model split shows stark refusal asymmetry
 
 ---
 
