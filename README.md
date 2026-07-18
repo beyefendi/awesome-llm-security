@@ -122,7 +122,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
-
+- [Senthex](https://senthex.com): EU-hosted LLM firewall (proxy) with 26 detection shields (prompt injection, PII, secrets) and a tamper-evident audit trail for EU AI Act record-keeping.
 ---
 
 ### 🔐 Agent Authorization & Governance
@@ -189,6 +189,8 @@
 - ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) [TrojText](https://github.com/UCF-ML-Research/TrojText): Trojan attacks on text classifiers
 - ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) [BadActs](https://github.com/clearloveclearlove/BadActs): Backdoor attacks via activation steering
 - ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social) [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama): Backdoor attacks on fine-tuned LLaMA
+- [ATLAS](https://senthex.com/en/research/atlas/): Forensic study of prompt-injection cascades in a multi-agent enterprise — one poisoned support ticket drives four agents to a fraudulent transfer; no model jailbroken, the failure is topological.
+- [RELAY](https://senthex.com/en/research/relay/): Authority framing in agentic CI/CD verifier agents ship secret-exfil code because a ticket says "pre-approved"; ~80% of laundered PRs pass a competent scanner.
 
 
 ---
