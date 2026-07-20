@@ -194,7 +194,8 @@
 - ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) [TrojText](https://github.com/UCF-ML-Research/TrojText): Trojan attacks on text classifiers
 - ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) [BadActs](https://github.com/clearloveclearlove/BadActs): Backdoor attacks via activation steering
 - ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social) [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama): Backdoor attacks on fine-tuned LLaMA
-
+- [**ATLAS**](https://doi.org/10.5281/zenodo.21428133): Forensic study of prompt-injection cascades across a four-agent enterprise workflow
+- [**RELAY**](https://doi.org/10.5281/zenodo.21425933): Study of authority framing and laundered code in multi-agent CI/CD pipelines
 
 ---
 
