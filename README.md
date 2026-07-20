@@ -134,6 +134,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
@@ -244,4 +245,3 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date" />
   </picture>
 </a>
-
