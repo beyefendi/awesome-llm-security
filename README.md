@@ -133,6 +133,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
+- ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
