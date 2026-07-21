@@ -36,6 +36,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kortex-labs/plexiglass?style=social) [**Plexiglass**](https://github.com/kortex-labs/plexiglass) Security toolbox for testing and safeguarding LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social) [**Inkog**](https://github.com/inkog-io/inkog) AI agent security scanner (CLI + MCP server) detects prompt injection, SQLi via LLM
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/llm-security-scanner?style=social) [**LLM Security Scanner**](https://github.com/tugkanboz/llm-security-scanner) Prompt injection with OWASP LLM Top 10 and Turkish payloads
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Mohamed7415/fpverify?style=social) [**fpverify**](https://github.com/Mohamed7415/fpverify) Behavioral-fingerprint auditor that detects silent model substitution by API relays (anytime-valid sequential test, FPR ≤ 1%)
 
 ---
 
