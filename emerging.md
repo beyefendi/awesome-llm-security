@@ -10,6 +10,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 ### 🧰 Multi-Purpose Model Scanners
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Mohamed7415/fpverify?style=social) [**fpverify**](https://github.com/Mohamed7415/fpverify): Detects silent model substitution by API relays via behavioral fingerprints
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/llm-security-scanner?style=social) [**LLM Security Scanner**](https://github.com/tugkanboz/llm-security-scanner) Prompt injection with OWASP LLM Top 10 and Turkish payloads
 
 ### 🤖 MCP & Agent Scanners
