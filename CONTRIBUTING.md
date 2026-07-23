@@ -48,7 +48,7 @@ When unsure, ask in an issue before opening a PR.
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OWNER/REPO?style=social) [**Name**](https://github.com/OWNER/REPO): Short one-line description
 ```
 
-### Sites / docs / Zenodo (no GitHub repo)
+### Sites / docs (no GitHub repo)
 
 ```markdown
 - [**Name**](https://example.com/): Short one-line description
