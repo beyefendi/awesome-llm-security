@@ -122,9 +122,9 @@
 
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies agent HTTP/MCP calls against a trusted source with ZK proofs and allow-list blocking
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies an agent's outbound HTTP and MCP calls against a source of truth with zero-knowledge proofs, then blocks anything off the trusted-endpoint allow-list and logs each call
 
 ---
 
