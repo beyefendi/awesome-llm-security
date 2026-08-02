@@ -32,6 +32,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
+- ![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social) [**PolicyStrata**](https://github.com/raintree-technology/policystrata): Deterministic policy regression testing and runtime decision gates for LLM data agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
 
 ---
