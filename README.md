@@ -44,6 +44,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/cisco-ai-defense/mcp-scanner?style=social) [**MCP Scanner**](https://github.com/cisco-ai-defense/mcp-scanner) Scan MCP servers for potential threats & security findings
 - ![GitHub stars](https://img.shields.io/github/stars/Puliczek/awesome-mcp-security?style=social) [**Awesome MCP Security**](https://github.com/Puliczek/awesome-mcp-security) Curated list of MCP security resources
 - ![GitHub Repo stars](https://img.shields.io/github/stars/riseandignite/mcp-shield?style=social) [**MCP Shield**](https://github.com/riseandignite/mcp-shield) Security scanner for MCP servers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/Agent-Wiz?style=social) [**Agent-Wiz**](https://github.com/Repello-AI/Agent-Wiz): CLI for threat modeling agentic workflows from LangChain, LangGraph, CrewAI, and AutoGen
 - ![GitHub Repo stars](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner?style=social) [**MCP Safety Scanner**](https://github.com/johnhalloran321/mcpSafetyScanner) Automated MCP safety auditing and remediation using Agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social) [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp) MCP server for scanning code for web vulnerabilities, prompt injection, and AI-hallucinated package detection
 - ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) LLM agent security resources, attacks, vulnerabilities
@@ -99,8 +100,10 @@
 - ![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=social) [**LLM-Guard**](https://github.com/protectai/llm-guard): Tool for securing LLM interactions (replaced rebuff)
 - ![GitHub stars](https://img.shields.io/github/stars/whylabs/langkit?style=social) [**LangKit**](https://github.com/whylabs/langkit): Functions for jailbreak detection, prompt injection, and sensitive information detection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/tldrsec/prompt-injection-defenses?style=social) [**Prompt Injection Defenses**](https://github.com/tldrsec/prompt-injection-defenses): Practical and proposed defenses against prompt injection
+- ![GitHub Repo stars](https://img.shields.io/github/stars/secureagentics/Adrian?style=social) [**Adrian**](https://github.com/secureagentics/Adrian): Runtime security for AI agents detecting and blocking prompt injection, malicious tool use, and out-of-remit actions
 - ![GitHub Repo stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=social) [**Vigil**](https://github.com/deadbits/vigil-llm): Prompt injection detection toolkit and REST API for LLM security risk scoring
 - ![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=social) [**Invariant**](https://github.com/invariantlabs-ai/invariant) Trace analysis tool for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=social) [**HOL Guard**](https://github.com/hashgraph-online/hol-guard): Local-first agent security layer intercepting tool calls and scanning MCP, skills, and plugins
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social) [**Agent Threat Rules**](https://github.com/Agent-Threat-Rule/agent-threat-rules) Detection rule standard for AI threats (e.g., prompt injection and MCP attacks)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social) [**TraceAI**](https://github.com/future-agi/traceAI): Tracing for LLM and agent apps
 - ![GitHub stars](https://img.shields.io/github/stars/safellama/plexiglass?style=social) [**Plexiglass**](https://github.com/safellama/plexiglass): Security tool for LLM applications
@@ -122,6 +125,9 @@
 
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
+- ![GitHub Repo stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social) [**Nika**](https://github.com/supernovae-st/nika): Rust agent workflow runtime with default-deny permits, secret-flow analysis, and hash-chained traces
+- ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) [**DOS Kernel**](https://github.com/anthony-chaudhary/dos-kernel): Deterministic trust kernel verifying agent done-claims from git evidence
+- ![GitHub Repo stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) [**TealTiger**](https://github.com/agentguard-ai/tealtiger): Deterministic runtime governance for AI agents with tool allowlisting and SARIF audit evidence
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies agent HTTP/MCP calls against a trusted source with ZK proofs and allow-list blocking
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
@@ -153,10 +159,12 @@
 
 - [**Gandalf**](https://gandalf.lakera.ai/): Prompt injection wargame
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/damn-vulnerable-llm-agent?style=social) [**Damn Vulnerable LLM Agent**](https://github.com/ReversecLabs/damn-vulnerable-llm-agent)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CyberSunil/LLMVault?style=social) [**LLMVault**](https://github.com/CyberSunil/LLMVault): Hands-on OWASP LLM Top 10 training lab and CTF
 - ![GitHub Repo stars](https://img.shields.io/github/stars/R3dShad0w7/PromptMe?style=social) [**PromptMe**](https://github.com/R3dShad0w7/PromptMe)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/PwnzzAI?style=social) [**PwnzzAI**](https://github.com/OWASP/PwnzzAI) OWASP LLM ToP 10 vulnerabilities
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
 - [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
+- [**AI RiskAtlas**](https://riskatlas.principle.sg): Interactive LLM and agent security lab with incident cases and attack simulations
 
 ---
 
@@ -188,6 +196,7 @@
 - [AI Security Explained](https://www.youtube.com/playlist?list=PLOspHqNVtKADin6JGozvzSvUQFTQRdum-): Short essential theoretical knowledge
 - [AI Agents for Pentest](https://youtube.com/playlist?list=PLHSZe6NjhTwUa2jVwQgDM2BTyWVvbmAls): Using agents for penetration testing
 - [Prompt Injection and Jailbreaking](https://www.youtube.com/playlist?list=PLHSZe6NjhTwW1jboW_ccfJpVTMJQvi1zW): Practical short lab studies
+- [hego.red](https://hego.red/): Practical AI/LLM red teaming notes on prompt injection, jailbreaks, RAG poisoning, and agent attacks
 
 ---
 
