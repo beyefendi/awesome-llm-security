@@ -50,6 +50,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) LLM agent security resources, attacks, vulnerabilities
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/alexgreensh/repo-forensics?style=social) [**Repo Forensics**](https://github.com/alexgreensh/repo-forensics) Offline scanner for AI-agent repos, skills, plugins & MCP servers; detects supply-chain risk, prompt injection, and dangerous capabilities with runtime behavior prediction and SARIF-style output
 
 ---
 
