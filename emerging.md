@@ -20,6 +20,10 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
 
+### 💣 Prompt Injection
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?style=social) [**Sentinel Scan CLI**](https://github.com/Ventrova/sentinel-scan-cli): Free CLI running a 15-attack prompt-injection suite against your own LLM endpoint
+
 ### 🛡️ Defensive & Guardrail Tools
 
 - ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
