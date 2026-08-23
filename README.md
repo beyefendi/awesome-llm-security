@@ -71,6 +71,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social) [**LLMFuzzer**](https://github.com/mnns/LLMFuzzer): Fuzzing framework for LLM prompt generation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?color=gold) [**Spikee**](https://github.com/ReversecLabs/spikee): Prompt injection toolkit
 - ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social) [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?style=social) [**Sentinel Scan CLI**](https://github.com/Ventrova/sentinel-scan-cli): Free CLI that runs a 15-attack prompt-injection/jailbreak suite against your own LLM endpoint in about a minute, no signup or API key required
 
 ---
 
