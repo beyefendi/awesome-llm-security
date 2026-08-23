@@ -16,6 +16,7 @@
   - [🌟 Miscellaneous](#-miscellaneous)
   - [📰 Blogs and Social Media](#-blogs-and-social-media)
   - [🙏 Acknowledgements](#-acknowledgements)
+  - [Star History](#star-history)
 
 ---
 
@@ -238,10 +239,12 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 
 ---
 
-<a href="https://star-history.com/#beyefendi/awesome-llm-security&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=beyefendi/awesome-llm-security&type=Date" />
-  </picture>
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=beyefendi%2Fawesome-llm-security">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=beyefendi/awesome-llm-security&type=date&theme=dark&legend=top-left&sealed_token=uTfMq1U6cETRU74gebK8lc5-05SMZuwz-WbI2QzakjB1rLIAXACgQsFdh2iN6zPfFX8ASKYRyBx5enu2RcTLas2SQNcAwOrH9-tCwYFk9j1g9ikW26p01ZnAZFQkEsUH55pke_Ap_Iso7-O83X-7gkBCnIb7NtO5Q-uc4GOm7tXk8GBfGR668AKDX2Up" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=beyefendi/awesome-llm-security&type=date&legend=top-left&sealed_token=uTfMq1U6cETRU74gebK8lc5-05SMZuwz-WbI2QzakjB1rLIAXACgQsFdh2iN6zPfFX8ASKYRyBx5enu2RcTLas2SQNcAwOrH9-tCwYFk9j1g9ikW26p01ZnAZFQkEsUH55pke_Ap_Iso7-O83X-7gkBCnIb7NtO5Q-uc4GOm7tXk8GBfGR668AKDX2Up" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=beyefendi/awesome-llm-security&type=date&legend=top-left&sealed_token=uTfMq1U6cETRU74gebK8lc5-05SMZuwz-WbI2QzakjB1rLIAXACgQsFdh2iN6zPfFX8ASKYRyBx5enu2RcTLas2SQNcAwOrH9-tCwYFk9j1g9ikW26p01ZnAZFQkEsUH55pke_Ap_Iso7-O83X-7gkBCnIb7NtO5Q-uc4GOm7tXk8GBfGR668AKDX2Up" />
+ </picture>
 </a>
