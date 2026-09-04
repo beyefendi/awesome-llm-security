@@ -95,6 +95,7 @@
 
 ### 🛡️ Defensive & Guardrail Tools
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social) [**Bifrost**](https://github.com/maximhq/bifrost): AI gateway with guardrails, rate limits, and access controls for governed model and MCP traffic
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?color=gold) [**Guardrails**](https://github.com/guardrails-ai/guardrails): Add structured validation and policy enforcement for LLMs
 - ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social) [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social) [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META
