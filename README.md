@@ -95,6 +95,7 @@
 
 ### 🛡️ Defensive & Guardrail Tools
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social) [**Bifrost**](https://github.com/maximhq/bifrost): AI gateway with guardrails, rate limits, and access controls for governed model and MCP traffic
 - ![GitHub Repo stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?color=gold) [**Guardrails**](https://github.com/guardrails-ai/guardrails): Add structured validation and policy enforcement for LLMs
 - ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=social) [**NeMo Guardrails**](https://github.com/NVIDIA-NeMo/Guardrails): Protects against jailbreak and hallucinations with customizable rulesets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/PurpleLlama?style=social) [**PurpleLlama**](https://github.com/facebookresearch/PurpleLlama): Tools to assess and improve LLM security from META
@@ -131,6 +132,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) [**TealTiger**](https://github.com/agentguard-ai/tealtiger): Deterministic runtime governance for AI agents with tool allowlisting and SARIF audit evidence
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) [**DOS Kernel**](https://github.com/anthony-chaudhary/dos-kernel): Deterministic trust kernel verifying agent done-claims from git evidence
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies agent HTTP/MCP calls against a trusted source with ZK proofs and allow-list blocking
+- ![GitHub Repo stars](https://img.shields.io/github/stars/shleder/vetto?style=social) [**Vetto**](https://github.com/shleder/vetto): Daemon-less OS sandbox for AI coding agents with Landlock/seccomp and egress allowlists
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
 - [Penholder](https://penholder.ai/): Human-approval write-gate holding agent database writes pending until a human commits
