@@ -134,6 +134,7 @@
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
 - [Penholder](https://penholder.ai/): Human-approval write-gate holding agent database writes pending until a human commits
+- ![GitHub stars](https://img.shields.io/github/stars/shleder/vetto?style=social) [**Vetto**](https://github.com/shleder/vetto): Daemon-less kernel sandbox for AI coding agents (Landlock/seccomp on Linux, Seatbelt on macOS) — denies secret reads and off-allowlist egress by default
 
 ---
 
