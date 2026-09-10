@@ -127,6 +127,7 @@
 
 ### 🔐 Agent Authorization & Governance
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=social) [**Gram**](https://github.com/speakeasy-api/gram): MCP control plane that enforces agent access policies and logs tool activity
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
 - ![GitHub Repo stars](https://img.shields.io/github/stars/supernovae-st/nika?style=social) [**Nika**](https://github.com/supernovae-st/nika): Rust agent workflow runtime with default-deny permits, secret-flow analysis, and hash-chained traces
