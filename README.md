@@ -120,6 +120,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/LostOxygen/llm-confidentiality?style=social) [**LLM Confidentiality**](https://github.com/LostOxygen/llm-confidentiality): Ensuring confidentiality in LLMs
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aisecuritygateway/aisecuritygateway?style=social) [**AI Security Gateway**](https://github.com/aisecuritygateway/aisecuritygateway): LLM firewall with PII redaction, prompt injection blocking for LLM APIs.  
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social) [**Agent Browser Shield**](https://github.com/pixiebrix/agent-browser-shield): Browser extension stripping prompt injection and masking PII before pages reach an agent
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ExtendedUser/pasteguard?style=social) [**PasteGuard**](https://github.com/ExtendedUser/pasteguard): Client-side secret/PII scanner for text before pasting into AI chats (API keys, tokens, private keys, common PII)
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 
