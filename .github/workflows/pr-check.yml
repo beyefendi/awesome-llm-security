@@ -1,0 +1,44 @@
+name: List PR check
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, ready_for_review]
+    paths:
+      - "README.md"
+      - "emerging.md"
+      - ".github/scripts/pr-check.py"
+      - ".github/workflows/pr-check.yml"
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  check-list-entries:
+    name: Format, stars, links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Diff list files
+        run: |
+          git diff "${{ github.event.pull_request.base.sha }}...${{ github.event.pull_request.head.sha }}" -- README.md emerging.md > /tmp/list.diff || true
+          echo "DIFF_FILE=/tmp/list.diff" >> "$GITHUB_ENV"
+
+      - name: Run PR check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          POST_PR_COMMENT: "true"
+          REPORT_FILE: pr-check-report.md
+        run: python3 .github/scripts/pr-check.py

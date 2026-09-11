@@ -102,6 +102,7 @@ Before opening a PR, confirm:
 - [ ] Not a duplicate
 - [ ] PR title names the project; body is short (optional disclosure if you maintain it)
 
+A GitHub Action comments on PRs that touch `README.md` / `emerging.md` with mechanical checks (format, badge/link, live repo, ★ threshold). Fix ❌ errors before asking for review; ⚠️ warnings are guidance.
 ---
 
 ## Scope
