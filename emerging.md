@@ -35,6 +35,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 ### 🔐 Agent Authorization & Governance
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/onkarbadve/agy-auto?style=social) [**agy-auto**](https://github.com/onkarbadve/agy-auto): PreToolUse permission firewall for CLI agents with deterministic deny and scoped approvals
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution

@@ -485,8 +485,14 @@ def main() -> int:
     if os.environ.get("POST_PR_COMMENT", "").lower() in ("1", "true", "yes"):
         try:
             upsert_pr_comment(report)
+            print("Posted/updated PR comment.", file=sys.stderr)
         except Exception as exc:
+            # Fork PRs historically 403 without pull_request_target; never hide the report.
             print(f"warning: could not post PR comment: {exc}", file=sys.stderr)
+            print(
+                "hint: ensure workflow uses pull_request_target (or a PAT) so comments work on forks.",
+                file=sys.stderr,
+            )
 
     # Fail only on errors
     return 1 if errors else 0
