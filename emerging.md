@@ -47,6 +47,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ## 🕵️ Benchmarks
 
 - ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Benchmark for prompt-injection detectors scoring catch-rate and false positives
+- ![GitHub Repo stars](https://img.shields.io/github/stars/astrogilda/agent-evidence-vectors?style=social) [**agent-evidence-vectors**](https://github.com/astrogilda/agent-evidence-vectors): Conformance vectors and a reference verifier for in-toto agent execution evidence
 
 ---
 
