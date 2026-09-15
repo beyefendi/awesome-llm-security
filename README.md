@@ -122,6 +122,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social) [**Agent Browser Shield**](https://github.com/pixiebrix/agent-browser-shield): Browser extension stripping prompt injection and masking PII before pages reach an agent
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/little-canary?style=social) [**little-canary**](https://github.com/hermes-labs-ai/little-canary): Detects prompt injection by its effect on a sacrificial canary model, not pattern matching — untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block/flag/pass before the primary model acts.
 
 ---
 
