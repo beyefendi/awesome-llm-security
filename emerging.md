@@ -32,6 +32,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jinyounghub/agentic-workflow-guard?style=social) [**agentic-workflow-guard**](https://github.com/jinyounghub/agentic-workflow-guard): CLI and GitHub Action detecting prompt-injection paths in AI-powered GitHub Actions workflows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ExtendedUser/pasteguard?style=social) [**PasteGuard**](https://github.com/ExtendedUser/pasteguard): Client-side secret/PII scanner for text before pasting into AI chats
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GetSHIM/shim-cli?style=social) [**shim-cli**](https://github.com/GetSHIM/shim-cli): Local hooks that mask secrets and PII in coding-agent tool results
 
 ### 🔐 Agent Authorization & Governance
 
