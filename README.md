@@ -139,6 +139,7 @@
 - [APort](https://aport.io/): Runtime policy and verification layer for AI agents and MCP-connected tools
 - [Tuning Engines](https://www.tuningengines.com/): AI control and evidence layer for governed model, MCP, skill, and agent traffic with guardrails, policy decisions, approvals, traces, cost analytics
 - [Penholder](https://penholder.ai/): Human-approval write-gate holding agent database writes pending until a human commits
+- [**Speakeasy**](https://www.speakeasy.com/product/ai-control-plane): Enterprise AI control plane governing agent and MCP access with policy enforcement and auditability
 
 ---
 
