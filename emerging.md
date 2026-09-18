@@ -36,7 +36,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 ### 🔐 Agent Authorization & Governance
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): Open-source LLM security gateway — CEL policy, agent-gate tool permissioning with human approval for irreversible actions, Ed25519 audit trail; publishes adaptive (not only round-1) red-team results
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway: agent-gate + Ed25519 audit; adaptive red-team results published (not claiming better peer ASR)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/onkarbadve/agy-auto?style=social) [**agy-auto**](https://github.com/onkarbadve/agy-auto): PreToolUse permission firewall for CLI agents with deterministic deny and scoped approvals
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
