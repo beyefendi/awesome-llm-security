@@ -20,6 +20,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DSHCorrectover/correctover-scan?style=social) [**correctover-scan**](https://github.com/DSHCorrectover/correctover-scan): CLI that scans MCP client config files for credential exposure, SSRF, and missing auth
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit): Security scanner and linter for MCP servers with SARIF output
 
 ### 💣 Prompt Injection
 
@@ -42,6 +43,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social) [**PolicyStrata**](https://github.com/raintree-technology/policystrata): Deterministic policy regression testing and runtime decision gates for LLM data agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 
 ---
 

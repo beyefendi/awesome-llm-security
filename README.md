@@ -85,6 +85,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social) [**PentAGI**](https://github.com/vxcontrol/pentagi)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social) [**PentestGPT**](https://github.com/GreyDGL/PentestGPT)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social) [**CAI**](https://github.com/aliasrobotics/cai)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Awarexone/Agentic-Bug-Hunter?style=social) [**Agentic Bug Hunter**](https://github.com/Awarexone/Agentic-Bug-Hunter): AI-powered bug bounty hunting toolkit
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) [**Raptor**](https://github.com/gadievron/raptor)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social) [**PentestAgent**](https://github.com/GH05TCREW/pentestagent)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests
