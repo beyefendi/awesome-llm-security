@@ -54,6 +54,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - [**Skill Safe**](https://skillsafe.online): Free hosted security checker for AI agent skills and MCP servers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit) Security scanner and linter for MCP servers: 18 detection rules with SARIF output
 
 ---
 
