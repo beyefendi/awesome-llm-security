@@ -21,6 +21,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DSHCorrectover/correctover-scan?style=social) [**correctover-scan**](https://github.com/DSHCorrectover/correctover-scan): CLI that scans MCP client config files for credential exposure, SSRF, and missing auth
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit): Security scanner and linter for MCP servers with SARIF output
+- ![GitHub Repo stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social) [**crosscheck skillcheck**](https://github.com/maxugc/crosscheck): Scans an agent skill or MCP server for injection, exfiltration, and credential theft before install
 
 ### 💣 Prompt Injection
 
@@ -58,4 +59,5 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 - ![GitHub stars](https://img.shields.io/github/stars/UCF-ML-Research/TrojText?style=social) [TrojText](https://github.com/UCF-ML-Research/TrojText): Trojan attacks on text classifiers
 - ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) [BadActs](https://github.com/clearloveclearlove/BadActs): Backdoor attacks via activation steering
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive?style=social) [**Orca AI Incident Archive**](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): Sourced database of real-world AI agent security incidents, flagging confirmed harm and AI involvement
 - ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social) [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama): Backdoor attacks on fine-tuned LLaMA
