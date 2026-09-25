@@ -1,6 +1,3 @@
-# Maintainer / local agent brief (not for public contributors)
-AGENTS.md
-
 # Local Python cache from PR-check smoke runs
 __pycache__/
 *.pyc
