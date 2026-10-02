@@ -133,6 +133,7 @@
 
 ### 🔐 Agent Authorization & Governance
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/OpenShell?style=social) [**OpenShell**](https://github.com/NVIDIA/OpenShell): Policy-enforced sandbox runtime for autonomous agents, isolating files, syscalls, network, and credentials
 - ![GitHub Repo stars](https://img.shields.io/github/stars/speakeasy-api/gram?style=social) [**Gram**](https://github.com/speakeasy-api/gram): MCP control plane that enforces agent access policies and logs tool activity
 - ![GitHub stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social) [**Tenuo**](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/lelu-ai/lelu?style=social) [**Lelu**](https://github.com/lelu-ai/lelu): Authorization engine gating agent tool calls on policy and prompt injection
@@ -156,6 +157,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 - ![GitHub stars](https://img.shields.io/github/stars/lakeraai/pint-benchmark?style=social) [**Lakera PINT Benchmark**](https://github.com/lakeraai/pint-benchmark): Benchmark for prompt injection detection
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-jailbench?style=social) [**hermes-jailbench**](https://github.com/hermes-labs-ai/hermes-jailbench): Known-pattern jailbreak regression benchmark for LLM endpoints with deterministic scoring
 - [**Helium Model Worldview Benchmark**](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark): 304 paired cue-swap prompts measuring refusal and bias flip consistency across models
 
 ---
