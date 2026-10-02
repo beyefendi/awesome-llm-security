@@ -30,6 +30,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/laiyer-ai/llm-guard?style=social) [**LLM Guard**](https://github.com/laiyer-ai/llm-guard) Security toolkit for LLM interactions
 - ![GitHub Repo stars](https://img.shields.io/github/stars/confident-ai/deepteam?style=social) [**DeepTeam**](https://github.com/confident-ai/deepteam) LLM red teaming framework (prompt injection, hallucination, data leaks, jailbreaks)
 - ![GitHub stars](https://img.shields.io/github/stars/msoedov/agentic_security?style=social) [**Agentic Security**](https://github.com/msoedov/agentic_security) Security toolkit for AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/toby-bridges/api-relay-audit?style=social) [**API Relay Audit**](https://github.com/toby-bridges/api-relay-audit): Local CLI for auditing third-party LLM relays and proxies for prompt injection and response anomalies
 - ![GitHub stars](https://img.shields.io/github/stars/0din-ai/ai-scanner?style=social) [**AI-Scanner**](https://github.com/0din-ai/ai-scanner) AI model safety scanner built on NVIDIA garak
 - ![GitHub stars](https://img.shields.io/github/stars/pasquini-dario/LLMmap?style=social) [**LLMmap**](https://github.com/pasquini-dario/LLMmap) Tool for mapping LLM vulnerabilities
 - ![GitHub stars](https://img.shields.io/github/stars/RomiconEZ/LLaMator?style=social) [**LLaMator**](https://github.com/RomiconEZ/LLaMator) Framework for testing vulnerabilities of LLMs
