@@ -55,7 +55,6 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - [**Skill Safe**](https://skillsafe.online): Free hosted security checker for AI agent skills and MCP servers
-- ![GitHub Repo stars](https://img.shields.io/github/stars/krishyaid-coder/sluice?style=social) [**sluice**](https://github.com/krishyaid-coder/sluice): Local MCP proxy that tracks sensitive values across a session and blocks cross-tool data leaks (stateful taint tracking)
 ---
 
 ### 🧑‍💻 RAG Security
