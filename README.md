@@ -55,6 +55,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=social) [**Armorer Guard**](https://github.com/ArmorerLabs/Armorer-Guard) Local Rust scanner for AI-agent prompt injection and dangerous tool-call context
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - [**Skill Safe**](https://skillsafe.online): Free hosted security checker for AI agent skills and MCP servers
+
 ---
 
 ### 🧑‍💻 RAG Security
@@ -126,9 +127,9 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social) [**Agent Browser Shield**](https://github.com/pixiebrix/agent-browser-shield): Browser extension stripping prompt injection and masking PII before pages reach an agent
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/little-canary?style=social) [**little-canary**](https://github.com/hermes-labs-ai/little-canary): Detects prompt injection via a sacrificial canary model before the primary model acts
 - ![GitHub Repo stars](https://img.shields.io/github/stars/purseclab/jailbreak-defense?style=social) [**Jailbreak Defense (Draft Models)**](https://github.com/purseclab/jailbreak-defense): Pre-model safeguard using draft models to screen inputs (CAIS'26)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/foro-sh/pii-mcp?style=social) [**pii-mcp**](https://github.com/foro-sh/pii-mcp): MCP middleware that redacts PII from tool results before they reach the model
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/foro-sh/pii-mcp?style=social) [**pii-mcp**](https://github.com/foro-sh/pii-mcp) FastMCP middleware that redacts PII from tool results before they reach the model (Rust-accelerated, optional NER)
 
 ---
 
