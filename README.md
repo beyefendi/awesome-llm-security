@@ -127,6 +127,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social) [**Agent Browser Shield**](https://github.com/pixiebrix/agent-browser-shield): Browser extension stripping prompt injection and masking PII before pages reach an agent
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/little-canary?style=social) [**little-canary**](https://github.com/hermes-labs-ai/little-canary): Detects prompt injection via a sacrificial canary model before the primary model acts
 - ![GitHub Repo stars](https://img.shields.io/github/stars/purseclab/jailbreak-defense?style=social) [**Jailbreak Defense (Draft Models)**](https://github.com/purseclab/jailbreak-defense): Pre-model safeguard using draft models to screen inputs (CAIS'26)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/foro-sh/pii-mcp?style=social) [**pii-mcp**](https://github.com/foro-sh/pii-mcp): MCP middleware that redacts PII from tool results before they reach the model
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
 
