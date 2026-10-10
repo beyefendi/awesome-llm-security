@@ -87,15 +87,20 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social) [**PentestGPT**](https://github.com/GreyDGL/PentestGPT)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social) [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai): MCP server that lets agents run offensive-security tools for automated pentesting
 - ![GitHub Repo stars](https://img.shields.io/github/stars/aliasrobotics/cai?style=social) [**CAI**](https://github.com/aliasrobotics/cai)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=social) [**deepsec**](https://github.com/vercel-labs/deepsec): Security harness for codebase vulnerability scanning with coding agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=social) [**Claude-Red**](https://github.com/SnailSploit/Claude-Red): Offensive-security skill library that primes Claude for specific attack surfaces
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) [**DeepAudit**](https://github.com/lintsinghua/DeepAudit): Multi-agent AI red-team platform with Docker sandbox exploit validation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Awarexone/Agentic-Bug-Hunter?style=social) [**Agentic Bug Hunter**](https://github.com/Awarexone/Agentic-Bug-Hunter): AI-powered bug bounty hunting toolkit
 - ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) [**Raptor**](https://github.com/gadievron/raptor)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social) [**PentestAgent**](https://github.com/GH05TCREW/pentestagent)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests
 - ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social) [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/larlarua/AutoCVE?style=social) [**AutoCVE**](https://github.com/larlarua/AutoCVE): Multi-agent platform for vulnerability detection, verification, and reporting
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social) [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social) [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon): Autonomous AI pentest platform with per-tech sub-agents and evidence trail per finding
+- ![GitHub Repo stars](https://img.shields.io/github/stars/knostic/OpenAnt?style=social) [**OpenAnt**](https://github.com/knostic/OpenAnt): LLM-powered vulnerability discovery with a second adversarial verification stage
 - ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social) [**BreachSeek - PENA**](https://github.com/snow10100/pena)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/scadastrangelove/rust-in-peace?style=social) [**rust-in-peace**](https://github.com/scadastrangelove/rust-in-peace): Agent-assisted vulnerability discovery for Rust, Android APKs, and AI agents
 
 ---
 

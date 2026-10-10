@@ -16,6 +16,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ### 🤖 MCP & Agent Scanners
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social) [**Sunglasses**](https://github.com/sunglasses-dev/sunglasses): Runtime trust scanner for AI agents covering prompt injection, tool poisoning, and MCP attacks
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pezhik/skilltotal?style=social) [**SkillTotal**](https://github.com/pezhik/skilltotal): Static scanner for MCP servers, agent skills, and npm/PyPI packages that cites file and line
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DSHCorrectover/correctover-scan?style=social) [**correctover-scan**](https://github.com/DSHCorrectover/correctover-scan): CLI that scans MCP client config files for credential exposure, SSRF, and missing auth
