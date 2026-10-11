@@ -32,6 +32,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 - ![GitHub stars](https://img.shields.io/github/stars/NeuralTrust/TrustGate?style=social) [**TrustGate**](https://github.com/NeuralTrust/TrustGate): Generative Application Firewall for GenAI Applications
 - ![GitHub Repo stars](https://img.shields.io/github/stars/GetSHIM/shim-cli?style=social) [**shim-cli**](https://github.com/GetSHIM/shim-cli): Local hooks that mask secrets and PII in coding-agent tool results
+- ![GitHub Repo stars](https://img.shields.io/github/stars/selan-ai/whatileaked?style=social) [**whatileaked**](https://github.com/selan-ai/whatileaked): Scans local Claude Code, Codex and Cursor transcripts for credentials already sent to the model
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AtlasPA/openclaw-security?style=social) [**OpenClaw Security Suite**](https://github.com/AtlasPA/openclaw-security): Defensive security suite for AI agent workspaces (prompt injection, integrity verification, secret scanning, supply chain analysis)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/krishyaid-coder/sluice?style=social) [**Sluice**](https://github.com/krishyaid-coder/sluice): Local MCP proxy that tracks sensitive values and blocks cross-tool data leaks
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jinyounghub/agentic-workflow-guard?style=social) [**agentic-workflow-guard**](https://github.com/jinyounghub/agentic-workflow-guard): CLI and GitHub Action detecting prompt-injection paths in AI-powered GitHub Actions workflows
