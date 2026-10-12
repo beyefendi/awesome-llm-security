@@ -37,6 +37,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jinyounghub/agentic-workflow-guard?style=social) [**agentic-workflow-guard**](https://github.com/jinyounghub/agentic-workflow-guard): CLI and GitHub Action detecting prompt-injection paths in AI-powered GitHub Actions workflows
 - ![GitHub Repo stars](https://img.shields.io/github/stars/knbtz65v2c-pixel/plumblint?style=social) [**Plumblint**](https://github.com/knbtz65v2c-pixel/plumblint): Local zero-dependency prompt-injection detector with published calibration and known bypasses
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultraprobe?style=social) [**UltraProbe**](https://github.com/ppcvote/ultraprobe): Deterministic CLI auditing system prompts and agent tool descriptions for missing prompt-injection defenses
 
 ### 🔐 Agent Authorization & Governance
 
