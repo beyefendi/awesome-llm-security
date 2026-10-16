@@ -46,8 +46,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raintree-technology/policystrata?style=social) [**PolicyStrata**](https://github.com/raintree-technology/policystrata): Deterministic policy regression testing and runtime decision gates for LLM data agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
-- ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vijaym2k6/SteerPlane?style=social) [**SteerPlane**](https://github.com/vijaym2k6/SteerPlane): Runtime guardrails for AI agents: loop detection, cost ceilings and tool-call allow/deny rules.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 
 ---
 
