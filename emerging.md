@@ -58,6 +58,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 - ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Benchmark for prompt-injection detectors scoring catch-rate and false positives
 - ![GitHub Repo stars](https://img.shields.io/github/stars/astrogilda/agent-evidence-vectors?style=social) [**agent-evidence-vectors**](https://github.com/astrogilda/agent-evidence-vectors): Conformance vectors and a reference verifier for in-toto agent execution evidence
+- ![GitHub Repo stars](https://img.shields.io/github/stars/raxITlabs/decision-models-as-guardrails?style=social) [**Decision Models as Guardrails**](https://github.com/raxITlabs/decision-models-as-guardrails): Benchmark of 18 decision models and Bedrock Guardrails on 9,975 guardrail checks, scoring accuracy and cost
 
 ---
 
