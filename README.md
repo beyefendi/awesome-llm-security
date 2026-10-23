@@ -204,6 +204,7 @@
 - [**LLM Security startups**](https://github.com/rushout09/llm-security-startups)
 - [**LLM Security Problems at DEFCON31 Quals**](https://github.com/Nautilus-Institute/quals-2023/tree/main/pawan_gupta): The world's top security competition
 - [**0din GenAI Bug Bounty from Mozilla**](https://0din.ai): GenAI models threats (prompt injection, training data poisoning, DoS)
+- [**Red Team Model Router**](https://unst33r.si): OpenAI-compatible hosted API serving abliterated and reduced-refusal open models for authorized red-team harnesses (disclosure: submitted by a service operator)
 - [**Adversarial Prompting**](https://www.promptingguide.ai/risks/adversarial): Documentation
 - [**OWASP Top 10 for LLMs**](https://owasp.org/www-project-top-10-for-large-language-model-applications/): Official list of key LLM risks including prompt injection
 
