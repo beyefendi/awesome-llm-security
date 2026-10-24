@@ -158,6 +158,7 @@
 - [**Pangea Attack Taxonomy**](https://pangea.cloud/resources/taxonomy/): Comprehensive taxonomy of AI/LLM attacks and vulnerabilities
 - [**AI Risk Taxonomy**](https://airisk.mit.edu/)
 - [**AIR-Bench 2024**](https://crfm.stanford.edu/helm/air-bench/latest/)
+- [**Agentic AI Test Checklist 110**](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110): Hugging Face dataset of 110 agent test procedures mapped to OWASP LLM Top 10 and OWASP Agentic threats
 
 ---
 
