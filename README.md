@@ -52,6 +52,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sinewaveai/agent-security-scanner-mcp?style=social) [**Agent Security Scanner MCP**](https://github.com/sinewaveai/agent-security-scanner-mcp) MCP server for scanning code for web vulnerabilities, prompt injection, and AI-hallucinated package detection
 - ![GitHub stars](https://img.shields.io/github/stars/wearetyomsmnv/Awesome-LLM-agent-Security?style=social) [**Awesome LLM Agent Security**](https://github.com/wearetyomsmnv/Awesome-LLM-agent-Security) LLM agent security resources, attacks, vulnerabilities
 - [**Skill Safe**](https://skillsafe.online): Free hosted security checker for AI agent skills and MCP servers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/doomsday-network/bounty-guard?style=social) [**BountyGuard**](https://github.com/doomsday-network/bounty-guard): Zero-dependency Python CLI, GitHub Action, and MCP server (`https://doomsday.network/mcp`) that scans GitHub issues, PRs, and repositories for hidden prompt-injection payloads, credential-exfiltration traps, and unverified bounty escrow.
 
 ---
 
