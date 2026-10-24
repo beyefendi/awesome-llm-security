@@ -27,6 +27,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit): Security scanner and linter for MCP servers with SARIF output
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social) [**crosscheck skillcheck**](https://github.com/maxugc/crosscheck): Scans an agent skill or MCP server for injection, exfiltration, and credential theft before install
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Masciopinto/ironheights?style=social) [**Ironheights**](https://github.com/Frank-Masciopinto/ironheights): Pre-install security scanner for OpenClaw/ClawHub agent skills (prompt injection, credential theft, tampering)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/doomsday-network/bounty-guard?style=social) [**BountyGuard**](https://github.com/doomsday-network/bounty-guard): CLI and MCP server scanning GitHub issues and repos for prompt injection and secret exfiltration
 
 ### 💣 Prompt Injection
 
