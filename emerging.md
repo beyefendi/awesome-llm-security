@@ -27,6 +27,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/AgentPostmortem/MCP-audit?style=social) [**MCP-audit**](https://github.com/AgentPostmortem/MCP-audit): Security scanner and linter for MCP servers with SARIF output
 - ![GitHub Repo stars](https://img.shields.io/github/stars/maxugc/crosscheck?style=social) [**crosscheck skillcheck**](https://github.com/maxugc/crosscheck): Scans an agent skill or MCP server for injection, exfiltration, and credential theft before install
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Frank-Masciopinto/ironheights?style=social) [**Ironheights**](https://github.com/Frank-Masciopinto/ironheights): Pre-install security scanner for OpenClaw/ClawHub agent skills (prompt injection, credential theft, tampering)
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### 💣 Prompt Injection
 
