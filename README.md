@@ -149,6 +149,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/EasyJailbreak/EasyJailbreak?style=social) [**PALLMs (Payloads for Attacking Large Language Models)**](https://github.com/mik0w/pallms)
 - ![GitHub stars](https://img.shields.io/github/stars/pdparchitect/llm-hacking-database?style=social) [**LLM Hacking Database**](https://github.com/pdparchitect/llm-hacking-database): Attacks against LLMs
 - [**Helium Model Worldview Benchmark**](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark): 304 paired cue-swap prompts measuring refusal and bias flip consistency across models
+- [**Agentic AI Test Checklist 110**](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110): Manual test checklist for tool-using agents, including prompt-injection and OWASP agent-security cases
 
 ---
 
@@ -158,7 +159,6 @@
 - [**Pangea Attack Taxonomy**](https://pangea.cloud/resources/taxonomy/): Comprehensive taxonomy of AI/LLM attacks and vulnerabilities
 - [**AI Risk Taxonomy**](https://airisk.mit.edu/)
 - [**AIR-Bench 2024**](https://crfm.stanford.edu/helm/air-bench/latest/)
-- [**Agentic AI Test Checklist 110**](https://huggingface.co/datasets/srinivaspadmanabhuni/agentic-ai-test-checklist-110): Hugging Face dataset of 110 agent test procedures mapped to OWASP LLM Top 10 and OWASP Agentic threats
 
 ---
 
