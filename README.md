@@ -138,6 +138,7 @@
 - [**Speakeasy**](https://www.speakeasy.com/product/ai-control-plane): Enterprise AI control plane governing agent and MCP access with policy enforcement and auditability
 - [**Alovia Watchdog**](https://aloviaai.com): Runtime allow/flag/block check of agent actions against a per-agent mission
 - [**Praesidia**](https://praesidia.ai/): Tool permissions, approvals and signed decision records for agent and MCP calls routed through Praesidia
+- [**Scalekit**](https://www.scalekit.com/): Per-user scoped OAuth and tool-level authorization for agents across 600+ apps, with audit logs of every call
 
 ---
 
@@ -171,6 +172,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/OWASP/PwnzzAI?style=social) [**PwnzzAI**](https://github.com/OWASP/PwnzzAI) OWASP LLM ToP 10 vulnerabilities
 - [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
 - [**AI RiskAtlas**](https://riskatlas.principle.sg): Interactive LLM and agent security lab with incident cases and attack simulations
+- [**RansomLeak AI Security**](https://ransomleak.com/exercises/clawdbot-prompt-injection/): Browser exercise on indirect prompt injection against an AI assistant
 
 ---
 
