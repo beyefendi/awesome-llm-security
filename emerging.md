@@ -71,6 +71,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/100monkeys-ai/aegis-orchestrator?style=social) [**AEGIS by 100monkeys.ai**](https://github.com/100monkeys-ai/aegis-orchestrator): Self-hosted agent orchestrator enforcing per-agent network and filesystem policy in isolated runtimes
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ErcinDedeoglu/llm-redteam-banking-checklist?style=social) [**LLM Red-Team Banking Checklist**](https://github.com/ErcinDedeoglu/llm-redteam-banking-checklist): Go-live CI gate for LLM red-team results in banking: severity scorer, five gates, pytest and GitHub Actions
 
 ---
 
@@ -101,3 +102,4 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub stars](https://img.shields.io/github/stars/clearloveclearlove/BadActs?style=social) [BadActs](https://github.com/clearloveclearlove/BadActs): Backdoor attacks via activation steering
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive?style=social) [**Orca AI Incident Archive**](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): Sourced database of real-world AI agent security incidents, flagging confirmed harm and AI involvement
 - ![GitHub stars](https://img.shields.io/github/stars/naimul011/backdoor_attacks_on_fine-tuned_llama?style=social) [Backdoor Attacks on Fine-tuned LLaMA](https://github.com/naimul011/backdoor_attacks_on_fine-tuned_llama): Backdoor attacks on fine-tuned LLaMA
+
