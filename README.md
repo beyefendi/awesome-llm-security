@@ -139,7 +139,7 @@
 - [**Alovia Watchdog**](https://aloviaai.com): Runtime allow/flag/block check of agent actions against a per-agent mission
 - [**Praesidia**](https://praesidia.ai/): Tool permissions, approvals and signed decision records for agent and MCP calls routed through Praesidia
 - [**Scalekit**](https://www.scalekit.com/): Per-user scoped OAuth and tool-level authorization for agents across 600+ apps, with audit logs of every call
-- [**Standard Compute**](https://standardcompute.com/security): LLM gateway enforcing provider and model allow-lists, a Europe region rule and zero data retention per company, team or key, refusing a request before the prompt is sent when no approved endpoint qualifies
+- [**Standard Compute**](https://standardcompute.com/security): LLM gateway that enforces provider allow-lists, a Europe region rule and zero data retention per company, team or key
 
 ---
 
