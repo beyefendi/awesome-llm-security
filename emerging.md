@@ -71,6 +71,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/100monkeys-ai/aegis-orchestrator?style=social) [**AEGIS by 100monkeys.ai**](https://github.com/100monkeys-ai/aegis-orchestrator): Self-hosted agent orchestrator enforcing per-agent network and filesystem policy in isolated runtimes
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
 
 ---
 
@@ -79,7 +80,9 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-labs-ai/hermes-jailbench?style=social) [**hermes-jailbench**](https://github.com/hermes-labs-ai/hermes-jailbench): Known-pattern jailbreak regression benchmark for LLM endpoints with deterministic scoring
 - ![GitHub stars](https://img.shields.io/github/stars/bastion-soft/pi-detector-bench?style=social) [**PI Detector Bench**](https://github.com/bastion-soft/pi-detector-bench): Benchmark for prompt-injection detectors scoring catch-rate and false positives
 - ![GitHub Repo stars](https://img.shields.io/github/stars/astrogilda/agent-evidence-vectors?style=social) [**agent-evidence-vectors**](https://github.com/astrogilda/agent-evidence-vectors): Conformance vectors and a reference verifier for in-toto agent execution evidence
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0xLittleDream/embertail?style=social) [**EmberTail Money Check**](https://github.com/0xLittleDream/embertail): Tests AI agents for double payments, broken spend caps, and false paid reports on a simulated ledger
 - ![GitHub Repo stars](https://img.shields.io/github/stars/raxITlabs/decision-models-as-guardrails?style=social) [**Decision Models as Guardrails**](https://github.com/raxITlabs/decision-models-as-guardrails): Benchmark of 18 decision models and Bedrock Guardrails on 9,975 guardrail checks, scoring accuracy and cost
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ErcinDedeoglu/llm-redteam-banking-checklist?style=social) [**LLM Red-Team Banking Checklist**](https://github.com/ErcinDedeoglu/llm-redteam-banking-checklist): CI gate that scores banking LLM red-team findings and fails the release when a gate is red
 
 ---
 
