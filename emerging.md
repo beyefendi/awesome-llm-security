@@ -36,6 +36,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ### 🗡️ Autonomous Pentesting Frameworks
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/scadastrangelove/rust-in-peace?style=social) [**rust-in-peace**](https://github.com/scadastrangelove/rust-in-peace): Agent-assisted vulnerability discovery for Rust, Android APKs, and AI agents
+- ![GitHub Repo stars](https://img.shields.io/github/stars/razor-ai/openhunt?style=social) [**OpenHunt**](https://github.com/razor-ai/openhunt): Offensive-security agents and skills that run an engagement in Claude Code
 
 ### 🛡️ Defensive & Guardrail Tools
 
