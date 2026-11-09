@@ -107,9 +107,13 @@ A GitHub Action comments on PRs that touch `README.md` / `emerging.md` with mech
 
 ## Scope
 
-On-topic: LLM, agent, MCP, RAG, or prompt-injection security (offensive or defensive tools, benchmarks, playgrounds, studies).
+On-topic: security work this list already keeps. That is LLM, agent, MCP, RAG, or prompt-injection security, and checks on the packages, skills, plugins, and tools an agent installs or calls. Offensive or defensive tools, benchmarks, playgrounds, and studies all count.
 
-Off-topic or usually declined: general AI demos with no security focus, pure marketing pages with no substance, broken/private repos.
+Decide by the job, using the list as the evidence. Before declining, find the closest entry in `README.md` or `emerging.md`. If that entry does the same kind of work, the submission is in scope. Put it in the section that matches its primary function.
+
+An MCP server, plugin, CLI, or hosted check can all belong. Shipping a security check over MCP is a normal form on this list.
+
+Off-topic or usually declined: general AI demos with no security focus, pure marketing pages with no substance, broken or private repos, and tools whose job matches nothing already on the list.
 
 Commercial products without a public repo may be accepted as link-only entries when they clearly fit a section; maintainers may hold them.
 

@@ -341,7 +341,8 @@ def render_report(entries: list[AddedEntry]) -> tuple[str, int, int]:
         "## List entry check",
         "",
         "Automated format / stars / link checks from [CONTRIBUTING.md](https://github.com/beyefendi/awesome-llm-security/blob/main/CONTRIBUTING.md). "
-        "Section fit and merge decisions are still maintainer-reviewed.",
+        "Section fit and merge decisions are still maintainer-reviewed. "
+        "Scope follows the list: the same kind of security work already in `README.md` or `emerging.md` is in scope, including when the tool is an MCP server or plugin. This check does not decide scope.",
         "",
     ]
     if not entries:
