@@ -72,6 +72,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social) [**Open Prompt Injection**](https://github.com/liu00222/Open-Prompt-Injection): Evaluate prompt injection attacks and defenses on benchmark datasets
 - ![GitHub Repo stars](https://img.shields.io/github/stars/mnns/LLMFuzzer?style=social) [**LLMFuzzer**](https://github.com/mnns/LLMFuzzer): Fuzzing framework for LLM prompt generation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/spikee?color=gold) [**Spikee**](https://github.com/ReversecLabs/spikee): Prompt injection toolkit
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xqpsec/dsh-jailbreak?style=social) [**DSH Jailbreak**](https://github.com/xqpsec/dsh-jailbreak): Vendor-side prompt-transform plugin for DeepSeek Assistant — rewrites only the outgoing `chat/completions` body at the request boundary (no host patching), 20 attack categories behind a seed arm with 45.0% combined ASR vs a 0.0% raw baseline (n=169/184/60) and 0.0 pt benign-capability delta on 24/24 checks; default-off, byte-exact passthrough, `manifest + promptSha256` audit trail
 
 ---
 
