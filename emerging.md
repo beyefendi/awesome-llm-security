@@ -90,6 +90,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ## 🧪 Playground
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/RishabhPande/memory-poison-lab?style=social) [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab): Synthetic memory-poisoning lab with scripted agents, origin-aware defenses and bounded repair
 
 ---
 
