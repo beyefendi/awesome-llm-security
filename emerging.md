@@ -72,6 +72,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/100monkeys-ai/aegis-orchestrator?style=social) [**AEGIS by 100monkeys.ai**](https://github.com/100monkeys-ai/aegis-orchestrator): Self-hosted agent orchestrator enforcing per-agent network and filesystem policy in isolated runtimes
+- ![GitHub Repo stars](https://img.shields.io/github/stars/osimmoapies/sipar?style=social) [**Sipar**](https://github.com/osimmoapies/sipar): Agent language whose runtime blocks model-derived data from reaching shell, file or network actions
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
 
 ---
