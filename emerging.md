@@ -91,6 +91,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
 
+- [**Indirect prompt injection lab**](https://github.com/Excession-Labs/prompt-injection-lab): Mock support-agent lab for measuring indirect prompt injection and defenses
+
 ---
 
 ## 🧪 PoC & Study Resources
