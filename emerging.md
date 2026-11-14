@@ -73,6 +73,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/100monkeys-ai/aegis-orchestrator?style=social) [**AEGIS by 100monkeys.ai**](https://github.com/100monkeys-ai/aegis-orchestrator): Self-hosted agent orchestrator enforcing per-agent network and filesystem policy in isolated runtimes
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
+- ![GitHub Repo stars](https://img.shields.io/github/stars/auditailhq/auditail?style=social) [**Auditail**](https://github.com/auditailhq/auditail): Policy checks for agent tool calls: spending limits, human approval, kill switch and tamper-evident audit log
 
 ---
 
