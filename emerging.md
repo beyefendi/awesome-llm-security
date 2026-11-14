@@ -60,6 +60,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ### 🔐 Agent Authorization & Governance
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) [**TealTiger**](https://github.com/agentguard-ai/tealtiger): Deterministic runtime governance for AI agents with tool allowlisting and SARIF audit evidence
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dooly6276/claude-bulkhead?style=social) [**claude-bulkhead**](https://github.com/dooly6276/claude-bulkhead): PreToolUse hooks that block destructive agent shell commands and name the safe command
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies agent HTTP/MCP calls against a trusted source with ZK proofs and allow-list blocking
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) [**DOS Kernel**](https://github.com/anthony-chaudhary/dos-kernel): Deterministic trust kernel verifying agent done-claims from git evidence
 - ![GitHub Repo stars](https://img.shields.io/github/stars/blitzcrieg1/agentmetry?style=social) [**Agentmetry**](https://github.com/blitzcrieg1/agentmetry): Records AI coding agent tool calls into a hash-chained log, flags risky sequences, forwards to your SIEM
