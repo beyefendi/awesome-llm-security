@@ -20,6 +20,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/pezhik/skilltotal?style=social) [**SkillTotal**](https://github.com/pezhik/skilltotal): Static scanner for MCP servers, agent skills, and npm/PyPI packages that cites file and line
 - ![GitHub Repo stars](https://img.shields.io/github/stars/taoq-ai/ziran?style=social) [**Ziran**](https://github.com/taoq-ai/ziran) Security testing framework for AI agents
 - ![GitHub Repo stars](https://img.shields.io/github/stars/sunglasses-dev/sunglasses?style=social) [**Sunglasses**](https://github.com/sunglasses-dev/sunglasses): Runtime trust scanner for AI agents covering prompt injection, tool poisoning, and MCP attacks
+- ![GitHub Repo stars](https://img.shields.io/github/stars/calbebop/batesian?style=social) [**Batesian**](https://github.com/calbebop/batesian): CLI that probes deployed A2A and MCP servers for authorization, isolation, and protocol misconfigurations
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 - ![GitHub Repo stars](https://img.shields.io/github/stars/DSHCorrectover/correctover-scan?style=social) [**correctover-scan**](https://github.com/DSHCorrectover/correctover-scan): CLI that scans MCP client config files for credential exposure, SSRF, and missing auth
@@ -60,11 +61,13 @@ These stay visible for discovery while they gain traction. On periodic review th
 ### 🔐 Agent Authorization & Governance
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/agentguard-ai/tealtiger?style=social) [**TealTiger**](https://github.com/agentguard-ai/tealtiger): Deterministic runtime governance for AI agents with tool allowlisting and SARIF audit evidence
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dooly6276/claude-bulkhead?style=social) [**claude-bulkhead**](https://github.com/dooly6276/claude-bulkhead): PreToolUse hooks that block destructive agent shell commands and name the safe command
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ProvablyAI/sourcerykit?style=social) [**SourceryKit**](https://github.com/ProvablyAI/sourcerykit): Verifies agent HTTP/MCP calls against a trusted source with ZK proofs and allow-list blocking
 - ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) [**DOS Kernel**](https://github.com/anthony-chaudhary/dos-kernel): Deterministic trust kernel verifying agent done-claims from git evidence
 - ![GitHub Repo stars](https://img.shields.io/github/stars/blitzcrieg1/agentmetry?style=social) [**Agentmetry**](https://github.com/blitzcrieg1/agentmetry): Records AI coding agent tool calls into a hash-chained log, flags risky sequences, forwards to your SIEM
 - ![GitHub Repo stars](https://img.shields.io/github/stars/onkarbadve/agy-auto?style=social) [**agy-auto**](https://github.com/onkarbadve/agy-auto): PreToolUse permission firewall for CLI agents with deterministic deny and scoped approvals
 - ![GitHub Repo stars](https://img.shields.io/github/stars/dislovelhl/acgs-lite?style=social) [**Acgs-lite**](https://github.com/dislovelhl/acgs-lite): Governance layer blocking unsafe agent actions with audit trails
+- ![GitHub Repo stars](https://img.shields.io/github/stars/otsoa-dubief/tenure?style=social) [**Tenure**](https://github.com/otsoa-dubief/tenure): Per-action-type earned autonomy for AI agents (preregistered rule): revoked on a mistake, signed audit ledger
 - ![GitHub Repo stars](https://img.shields.io/github/stars/phinq-co/phinq?style=social) [**Phinq**](https://github.com/phinq-co/phinq): Governance proxy with tool-call risk scoring, human approval, and audit log
 - ![GitHub Repo stars](https://img.shields.io/github/stars/vijaym2k6/SteerPlane?style=social) [**SteerPlane**](https://github.com/vijaym2k6/SteerPlane): Runtime guardrails for AI agents: loop detection, cost ceilings, and tool-call allow/deny rules
 - ![GitHub Repo stars](https://img.shields.io/github/stars/BGMLAI/gate.cat?style=social) [**gate.cat**](https://github.com/BGMLAI/gate.cat): Deterministic action veto blocking destructive coding-agent commands before execution
@@ -72,7 +75,9 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub stars](https://img.shields.io/github/stars/MrLightful/scopra?style=social) [**Scopra**](https://github.com/MrLightful/scopra): Business-rule policy SDK for evaluating agent input and output before actions run
 - ![GitHub Repo stars](https://img.shields.io/github/stars/hamidmatiny/aegis?style=social) [**AEGIS**](https://github.com/hamidmatiny/aegis): LLM gateway with agent-gate tool permissioning and Ed25519 audit trails
 - ![GitHub Repo stars](https://img.shields.io/github/stars/100monkeys-ai/aegis-orchestrator?style=social) [**AEGIS by 100monkeys.ai**](https://github.com/100monkeys-ai/aegis-orchestrator): Self-hosted agent orchestrator enforcing per-agent network and filesystem policy in isolated runtimes
+- ![GitHub Repo stars](https://img.shields.io/github/stars/osimmoapies/sipar?style=social) [**Sipar**](https://github.com/osimmoapies/sipar): Agent language whose runtime blocks model-derived data from reaching shell commands, file writes or network requests
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
+- ![GitHub Repo stars](https://img.shields.io/github/stars/auditailhq/auditail?style=social) [**Auditail**](https://github.com/auditailhq/auditail): Policy checks for agent tool calls: spending limits, human approval, kill switch and tamper-evident audit log
 
 ---
 
@@ -90,6 +95,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 ## 🧪 Playground
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/RishabhPande/memory-poison-lab?style=social) [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab): Synthetic memory-poisoning lab with scripted agents, origin-aware defenses and bounded repair
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Excession-Labs/prompt-injection-lab?style=social) [**Indirect prompt injection lab**](https://github.com/Excession-Labs/prompt-injection-lab): Mock support-agent lab for measuring indirect prompt injection and defenses
 
 ---
 
