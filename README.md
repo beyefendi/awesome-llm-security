@@ -151,6 +151,7 @@
 - [**Alovia Watchdog**](https://aloviaai.com): Runtime allow/flag/block check of agent actions against a per-agent mission
 - [**Praesidia**](https://praesidia.ai/): Tool permissions, approvals and signed decision records for agent and MCP calls routed through Praesidia
 - [**Scalekit**](https://www.scalekit.com/): Per-user scoped OAuth and tool-level authorization for agents across 600+ apps, with audit logs of every call
+- [**MAQPNA**](https://maqpna.com/): Self-hosted agent runtime: sandboxed sessions, default-deny tool policy, human approvals and a hash-chained audit log
 
 ---
 
