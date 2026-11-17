@@ -151,6 +151,7 @@
 - [**Alovia Watchdog**](https://aloviaai.com): Runtime allow/flag/block check of agent actions against a per-agent mission
 - [**Praesidia**](https://praesidia.ai/): Tool permissions, approvals and signed decision records for agent and MCP calls routed through Praesidia
 - [**Scalekit**](https://www.scalekit.com/): Per-user scoped OAuth and tool-level authorization for agents across 600+ apps, with audit logs of every call
+- [**MAQPNA**](https://maqpna.com/): Self-hosted agent runtime: sandboxed sessions, default-deny tool policy, human approvals and a hash-chained audit log
 
 ---
 
@@ -202,6 +203,7 @@
 - ![GitHub stars](https://img.shields.io/github/stars/euanong/image-hijacks?style=social) [Image Hijacks](https://github.com/euanong/image-hijacks): Image-based hijacks of LLMs
 - [**ATLAS**](https://doi.org/10.5281/zenodo.21428133): Forensic study of prompt-injection cascades across a four-agent enterprise workflow
 - [**RELAY**](https://doi.org/10.5281/zenodo.21425933): Study of authority framing and laundered code in multi-agent CI/CD pipelines
+- [**Agent Skill Security Scan**](https://upskill.coach/research/agent-skill-security): Study of 121 agent skill repos and MCP servers scanned for prompt injection, secret exfiltration, and vulnerable deps
 
 ---
 
