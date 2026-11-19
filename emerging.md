@@ -78,6 +78,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/osimmoapies/sipar?style=social) [**Sipar**](https://github.com/osimmoapies/sipar): Agent language whose runtime blocks model-derived data from reaching shell commands, file writes or network requests
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
 - ![GitHub Repo stars](https://img.shields.io/github/stars/auditailhq/auditail?style=social) [**Auditail**](https://github.com/auditailhq/auditail): Policy checks for agent tool calls: spending limits, human approval, kill switch and tamper-evident audit log
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mylessaulibio/stop-authority-kit?style=social) [**Stop Authority Kit**](https://github.com/mylessaulibio/stop-authority-kit): Checklist, stop owner card, and drill log for who can halt an AI agent and how quickly
 
 ---
 
