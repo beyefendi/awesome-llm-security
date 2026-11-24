@@ -34,10 +34,18 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/controllability/jailbreak-evaluation?style=social) [**Jailbreak Evaluation**](https://github.com/controllability/jailbreak-evaluation): Python package for language model jailbreak evaluation
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Ventrova/sentinel-scan-cli?style=social) [**Sentinel Scan CLI**](https://github.com/Ventrova/sentinel-scan-cli): Free CLI running a 15-attack prompt-injection suite against your own LLM endpoint
 
-### 🗡️ Autonomous Pentesting Frameworks
+### 🗡️ Autonomous Pentest Agents
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/scadastrangelove/rust-in-peace?style=social) [**rust-in-peace**](https://github.com/scadastrangelove/rust-in-peace): Agent-assisted vulnerability discovery for Rust, Android APKs, and AI agents
-- ![GitHub Repo stars](https://img.shields.io/github/stars/razor-ai/openhunt?style=social) [**OpenHunt**](https://github.com/razor-ai/openhunt): Offensive-security agents and skills that run an engagement in Claude Code
+- ![GitHub Repo stars](https://img.shields.io/github/stars/scadastrangelove/rust-in-peace?style=social) [**rust-in-peace**](https://github.com/scadastrangelove/rust-in-peace): Agent-assisted vulnerability discovery for Rust, Android APKs, and AI agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kuaiyelink/HalberdStrike?style=social) [**HalberdStrike**](https://github.com/kuaiyelink/HalberdStrike): Pentest harness based on PentestGPT. Named in a vendor incident report.
+
+### 🔎 Agentic Code Auditors
+
+### 🎯 Offensive Agent Skills
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/razor-ai/openhunt?style=social) [**OpenHunt**](https://github.com/razor-ai/openhunt): Offensive-security agents and skills that run an engagement in Claude Code.
+
+### 🔌 Offensive MCP Bridges
 
 ### 🛡️ Defensive & Guardrail Tools
 
@@ -97,6 +105,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ReversecLabs/llm-vulnerable-recruitment-app?style=social) [**LLM CV Screener**](https://github.com/ReversecLabs/llm-vulnerable-recruitment-app)
 - ![GitHub Repo stars](https://img.shields.io/github/stars/RishabhPande/memory-poison-lab?style=social) [**Memory Poisoning Lab**](https://github.com/RishabhPande/memory-poison-lab): Synthetic memory-poisoning lab with scripted agents, origin-aware defenses and bounded repair
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Excession-Labs/prompt-injection-lab?style=social) [**Indirect prompt injection lab**](https://github.com/Excession-Labs/prompt-injection-lab): Mock support-agent lab for measuring indirect prompt injection and defenses
+
+### 🚩 CTF Agents
 
 ---
 

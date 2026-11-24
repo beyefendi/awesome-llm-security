@@ -29,12 +29,18 @@ Choose by **primary function**, not marketing language:
 | MCP & Agent Scanners | Scans agents, MCP servers, or agentic workflows |
 | RAG Security | Targets RAG systems |
 | Prompt Injection | Attack / jailbreak tooling and datasets |
-| Autonomous Pentesting Frameworks | AI-driven pentest platforms |
+| Autonomous Pentest Agents | An LLM runs a pentest, red-team, bug-bounty, or recon engagement |
+| Agentic Code Auditors | An LLM audits source and tries to prove the finding |
+| Offensive Agent Skills | Skill packs or playbooks a coding agent loads for offensive work |
+| Offensive MCP Bridges | An MCP server that hands an existing security tool to an agent |
 | Defensive & Guardrail Tools | Detects or filters attacks (injection, PII, jailbreaks) |
 | Agent Authorization & Governance | Authorizes, approves, blocks, or audits agent **actions** |
 | Benchmarks | Repeatable evaluation harnesses |
-| Playground | Labs, CTFs, vulnerable apps |
+| Playground | Labs and vulnerable apps |
+| CTF Agents | Agents that solve CTF or security-lab challenges |
 | PoC & Study Resources | Research, studies, PoCs |
+
+Command-and-control platforms and general-purpose agents stay off this list. The Offsec Harness Index entry points at harnesses named in incident reports, including general agents used that way.
 
 When unsure, ask in an issue before opening a PR.
 

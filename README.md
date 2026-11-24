@@ -75,37 +75,159 @@
 
 ---
 
-### 🗡️ Autonomous Pentesting Frameworks
+### 🗡️ Autonomous Pentest Agents
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social) [**Strix**](https://github.com/usestrix/strix)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social) [**Shannon**](https://github.com/KeygraphHQ/shannon)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social) [**PentAGI**](https://github.com/vxcontrol/pentagi)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social) [**PentestGPT**](https://github.com/GreyDGL/PentestGPT)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social) [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai): MCP server that lets agents run offensive-security tools for automated pentesting
-- ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=social) [**deepsec**](https://github.com/vercel-labs/deepsec): Security harness for codebase vulnerability scanning with coding agents
-- ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=social) [**Claude-Red**](https://github.com/SnailSploit/Claude-Red): Offensive-security skill library that primes Claude for specific attack surfaces
-- ![GitHub Repo stars](https://img.shields.io/github/stars/AIPentest/CyberStrikeAI?style=social) [**CyberStrikeAI**](https://github.com/AIPentest/CyberStrikeAI): AI pentest workspace with agents, MCP tools, human oversight, and attack-chain evidence
-- ![GitHub Repo stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) [**DeepAudit**](https://github.com/lintsinghua/DeepAudit): Multi-agent AI red-team platform with Docker sandbox exploit validation
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Awarexone/Agentic-Bug-Hunter?style=social) [**Agentic Bug Hunter**](https://github.com/Awarexone/Agentic-Bug-Hunter): AI-powered bug bounty hunting toolkit
-- ![GitHub Repo stars](https://img.shields.io/github/stars/oritera/Cairn?style=social) [**Cairn**](https://github.com/oritera/Cairn): State-space search engine for autonomous penetration testing
-- ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) [**Raptor**](https://github.com/gadievron/raptor)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/CyberStrikeus/CyberStrike?style=social) [**CyberStrike**](https://github.com/CyberStrikeus/CyberStrike): Offensive-security harness for automated penetration testing
-- ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social) [**RedAmon**](https://github.com/samugit83/redamon): Maps an attack surface into a graph and exploits it from a Kali sandbox behind approval gates
-- ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social) [**PentestAgent**](https://github.com/GH05TCREW/pentestagent)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI) Go-native agents to autonomously perform full-cycle pentests
-- ![GitHub Repo stars](https://img.shields.io/github/stars/BaaRai/ARTEX?style=social) [**ARTEX**](https://github.com/BaaRai/ARTEX): Autonomous multi-agent penetration testing system
-- ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social) [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=social) [**Xalgorix**](https://github.com/xalgorix/xalgorix): Autonomous pentest agent for reconnaissance, vulnerability detection, and exploitation
-- ![GitHub Repo stars](https://img.shields.io/github/stars/larlarua/AutoCVE?style=social) [**AutoCVE**](https://github.com/larlarua/AutoCVE): Multi-agent platform for vulnerability detection, verification, and reporting
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social) [**HackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT)
-- ![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social) [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon): Autonomous AI pentest platform with per-tech sub-agents and evidence trail per finding
-- ![GitHub Repo stars](https://img.shields.io/github/stars/berylliumsec/nebula?style=social) [**Nebula**](https://github.com/berylliumsec/nebula): Operator pentest harness with skills, Kali tools, approvals, and an assistant
-- ![GitHub Repo stars](https://img.shields.io/github/stars/knostic/OpenAnt?style=social) [**OpenAnt**](https://github.com/knostic/OpenAnt): LLM-powered vulnerability discovery with a second adversarial verification stage
-- ![GitHub Repo stars](https://img.shields.io/github/stars/BugTraceAI/BugTraceAI?style=social) [**BugTraceAI**](https://github.com/BugTraceAI/BugTraceAI): Self-hosted agentic web pentest suite with scanning, API testing, and MCP
-- ![GitHub Repo stars](https://img.shields.io/github/stars/KHenryAegis/VulnBot?style=social) [**VulnBot**](https://github.com/KHenryAegis/VulnBot): Multi-agent framework for autonomous penetration testing
-- ![GitHub Repo stars](https://img.shields.io/github/stars/arthurgervais/mapta?style=social) [**MAPTA**](https://github.com/arthurgervais/mapta): Multi-agent system for autonomous web security assessment with exploit validation
-- ![GitHub Repo stars](https://img.shields.io/github/stars/YasodGinige/AutoPentester?style=social) [**AutoPentester**](https://github.com/YasodGinige/AutoPentester): LLM agent framework for automated penetration testing
-- ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social) [**BreachSeek - PENA**](https://github.com/snow10100/pena)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/usestrix/strix?style=social) [**Strix**](https://github.com/usestrix/strix): Multi-agent pentest framework. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/KeygraphHQ/shannon?style=social) [**Shannon**](https://github.com/KeygraphHQ/shannon): AI pentester that reads source, then attacks the running app to prove each finding.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vxcontrol/pentagi?style=social) [**PentAGI**](https://github.com/vxcontrol/pentagi): Multi-agent pentest system. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BaaRai/ARTEX?style=social) [**ARTEX**](https://github.com/BaaRai/ARTEX): Autonomous multi-agent penetration testing system. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GreyDGL/PentestGPT?style=social) [**PentestGPT**](https://github.com/GreyDGL/PentestGPT): Autonomous pentest agent. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0x4m4/hexstrike-ai?style=social) [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai): MCP server that lets agents run offensive-security tools for automated pentesting. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AIPentest/CyberStrikeAI?style=social) [**CyberStrikeAI**](https://github.com/AIPentest/CyberStrikeAI): AI pentest workspace with agents, MCP tools, and attack-chain evidence. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/elder-plinius/T3MP3ST?style=social) [**T3MP3ST**](https://github.com/elder-plinius/T3MP3ST): Autonomous multi-agent red-team harness.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BitterSecurity/Decepticon?style=social) [**Decepticon**](https://github.com/BitterSecurity/Decepticon): Autonomous hacking agent for red teams.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/awarexone/Agentic-Bug-Hunter?style=social) [**Agentic Bug Hunter**](https://github.com/awarexone/Agentic-Bug-Hunter): AI-powered bug bounty hunting toolkit.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/oritera/Cairn?style=social) [**Cairn**](https://github.com/oritera/Cairn): State-space search engine for autonomous penetration testing. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sooryathejas/METATRON?style=social) [**METATRON**](https://github.com/sooryathejas/METATRON): Local-LLM pentest assistant that runs recon tools and analyzes the results.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Netw0rkNoob/VulnClaw?style=social) [**VulnClaw**](https://github.com/Netw0rkNoob/VulnClaw): Pentest CLI agent that takes a target from recon through exploitation to a report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/CyberStrikeus/CyberStrike?style=social) [**CyberStrike**](https://github.com/CyberStrikeus/CyberStrike): Offensive-security harness for automated penetration testing. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/samugit83/redamon?style=social) [**RedAmon**](https://github.com/samugit83/redamon): Maps an attack surface into a graph and exploits it from a Kali sandbox behind approval gates.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/pentestagent?style=social) [**PentestAgent**](https://github.com/GH05TCREW/pentestagent): Agent framework for black-box bug bounty, red team, and pentest work.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Armur-Ai/Pentest-Swarm-AI?style=social) [**Pentest-Swarm-AI**](https://github.com/Armur-Ai/Pentest-Swarm-AI): Go-native agents to autonomously perform full-cycle pentests.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/N1nEmAn/sapper-v2?style=social) [**sapper**](https://github.com/N1nEmAn/sapper-v2): Multi-agent pentest orchestration harness.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zakirkun/deep-eye?style=social) [**Deep Eye**](https://github.com/zakirkun/deep-eye): Pentest tool that has LLMs generate payloads and scan targets.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0xSteph/pentest-ai?style=social) [**pentest-ai**](https://github.com/0xSteph/pentest-ai): AI pentester that re-runs each exploit to prove the finding.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bugbasesecurity/pentest-copilot?style=social) [**Pentest-Copilot**](https://github.com/bugbasesecurity/pentest-copilot): Browser-based AI assistant for pentest and bug bounty work.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/JoasASantos/NeuroSploit?style=social) [**NeuroSploit**](https://github.com/JoasASantos/NeuroSploit): AI-powered penetration testing framework.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/SanMuzZzZz/LuaN1aoAgent?style=social) [**LuaN1aoAgent**](https://github.com/SanMuzZzZz/LuaN1aoAgent): Autonomous pentest agent built on graph-based reasoning.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PentesterFlow/agent?style=social) [**PentesterFlow**](https://github.com/PentesterFlow/agent): Terminal pentest agent with skills, a Burp bridge, and analyst control.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/xalgorix/xalgorix?style=social) [**Xalgorix**](https://github.com/xalgorix/xalgorix): Autonomous pentest agent for reconnaissance, vulnerability detection, and exploitation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ipa-lab/hackingBuddyGPT?style=social) [**hackingBuddyGPT**](https://github.com/ipa-lab/hackingBuddyGPT): Research framework for building LLM hacking agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=social) [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon): Autonomous AI pentest platform with per-tech sub-agents and an evidence trail per finding.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/s0ld13rr/pentestcode?style=social) [**PentestCode**](https://github.com/s0ld13rr/pentestcode): Multi-agent pentest system that keeps engagement state between runs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/berylliumsec/nebula?style=social) [**Nebula**](https://github.com/berylliumsec/nebula): Operator pentest harness with skills, Kali tools, approvals, and an assistant.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vigolium/vigolium?style=social) [**Vigolium**](https://github.com/vigolium/vigolium): Vulnerability scanner whose agent swarm picks modules and writes attack extensions.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pikpikcu/airecon?style=social) [**AIRecon**](https://github.com/pikpikcu/airecon): Autonomous security agent built on a self-hosted LLM.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Lazarus-ai-OSS/clearwing?style=social) [**Clearwing**](https://github.com/Lazarus-ai-OSS/clearwing): Autonomous scanner that runs Kali tools and builds exploits with human approval.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Zyrexnn/Cybermes?style=social) [**Cybermes**](https://github.com/Zyrexnn/Cybermes): Bug-bounty agent framework built on Hermes Agent.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cdxiaodong/cain-agent?style=social) [**Cain**](https://github.com/cdxiaodong/cain-agent): AI pentest agent with a cloud module for authorized assessments.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/R-s0n/ars0n-framework-v2?style=social) [**Ars0n Framework v2**](https://github.com/R-s0n/ars0n-framework-v2): Bug bounty recon framework that exposes scans to AI assistants over MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/AntiFox-AI/antifox?style=social) [**AntiFox**](https://github.com/AntiFox-AI/antifox): Agentic pentest platform derived from ARTEX. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FrancescoStabile/numasec?style=social) [**numasec**](https://github.com/FrancescoStabile/numasec): AI agent for cybersecurity work.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/asaotomo/FofaMap?style=social) [**FofaMap**](https://github.com/asaotomo/FofaMap): Ties FOFA asset discovery to Nuclei validation in one workflow.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Yean-Sec/StrikeAgent_AtkBrain-Flash?style=social) [**StrikeAgent**](https://github.com/Yean-Sec/StrikeAgent_AtkBrain-Flash): AI pentest platform that re-rates and re-verifies findings.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/FishCodeTech/muteki?style=social) [**Muteki**](https://github.com/FishCodeTech/muteki): Offensive-security harness for automated penetration testing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ARCANGEL0/Mitsu?style=social) [**Mitsu**](https://github.com/ARCANGEL0/Mitsu): Pentest agent that runs an authorized engagement from recon through post-exploitation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/adshao/flounder?style=social) [**Flounder**](https://github.com/adshao/flounder): Turns coding agents into a bug-bounty auditor that builds exploits locally.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Vasco0x4/AIDA?style=social) [**AIDA**](https://github.com/Vasco0x4/AIDA): Turns an LLM into an autonomous pentester inside a scope you set.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/SHAdd0WTAka/Zen-Ai-Pentest?style=social) [**Zen-Ai-Pentest**](https://github.com/SHAdd0WTAka/Zen-Ai-Pentest): Multi-agent pentest framework with automated vulnerability scanning.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chu0119/Pojun?style=social) [**Pojun**](https://github.com/chu0119/Pojun): Multi-agent platform that takes a one-line goal from recon through to a report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/faizann24/rogue?style=social) [**Rogue**](https://github.com/faizann24/rogue): LLM web vulnerability scanner that generates payloads and verifies findings.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/capture0x/AdStrike?style=social) [**AdStrike**](https://github.com/capture0x/AdStrike): Active Directory attack framework an LLM drives over MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/S1N6H/pentest-harness?style=social) [**Pentest Harness**](https://github.com/S1N6H/pentest-harness): Self-hosted agent harness for authorized pentests, bug bounty, and labs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/chainreactors/cyber-harness?style=social) [**cyber-harness**](https://github.com/chainreactors/cyber-harness): Single-binary agent for pentest, red team, and bug bounty.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/martian56/redcell?style=social) [**RedCell**](https://github.com/martian56/redcell): Agents that run a penetration test end to end inside a Kali container.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ok-helloworld/vibe-pentest?style=social) [**Vibe Pentest**](https://github.com/ok-helloworld/vibe-pentest): Multi-agent black-box pentest tool, including business-logic flaws.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vectra-ai-research/Halberd?style=social) [**Halberd**](https://github.com/vectra-ai-research/Halberd): Multi-cloud attack emulation with a Claude agent that finds and runs attack paths.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BugTraceAI/BugTraceAI?style=social) [**BugTraceAI**](https://github.com/BugTraceAI/BugTraceAI): Self-hosted agentic web pentest suite with scanning, API testing, and MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kpolley/redai?style=social) [**RedAI**](https://github.com/kpolley/redai): Terminal workbench that finds vulnerabilities and validates them with PoC scripts.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yee-yore/DorkAgent?style=social) [**DorkAgent**](https://github.com/yee-yore/DorkAgent): LLM agent that automates Google dorking for bug hunting and pentesting.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/straylabs-ai/deadend-cli?style=social) [**deadend-cli**](https://github.com/straylabs-ai/deadend-cli): Self-hosted agentic tooling for black-box pentests.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/pensarai/apex?style=social) [**Apex**](https://github.com/pensarai/apex): Terminal pentest agent for black-box and white-box tests in a Kali container.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/OTT-Cybersecurity-LLC/lyrie-ai?style=social) [**Lyrie**](https://github.com/OTT-Cybersecurity-LLC/lyrie-ai): Pentest CLI that fingerprints targets, validates exploits, and red-teams LLM endpoints.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/aielte-research/HackSynth?style=social) [**HackSynth**](https://github.com/aielte-research/HackSynth): LLM agent and evaluation framework for autonomous penetration testing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/irraz/vulnerator-ai?style=social) [**vulnerator-ai**](https://github.com/irraz/vulnerator-ai): Pentest agent on Hermes that drives Kali and browser tools over MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZacharyZcR/SecGPT?style=social) [**SecGPT**](https://github.com/ZacharyZcR/SecGPT): AutoGPT-style tool for pentesting, vulnerability scanning, and code audit.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yohannesgk/blacksmith?style=social) [**BlacksmithAI**](https://github.com/yohannesgk/blacksmith): Multi-agent pentest framework with recon, exploit, and post-exploit agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/haiou-666/Haiou-workshop?style=social) [**Haiou Workshop**](https://github.com/haiou-666/Haiou-workshop): AI workbench for reverse engineering, authorized pentests, and CTF.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/KHenryAegis/VulnBot?style=social) [**VulnBot**](https://github.com/KHenryAegis/VulnBot): Multi-agent framework for autonomous penetration testing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fzn0x/watchtower?style=social) [**Watchtower**](https://github.com/fzn0x/watchtower): Pentest CLI where LLM agents orchestrate security tools.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/KKingZero/Zypheron-CLI?style=social) [**Zypheron**](https://github.com/KKingZero/Zypheron-CLI): Local-first security CLI for recon, scanning, and operator workflows.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/antoninoLorenzo/AI-OPS?style=social) [**AI-OPS**](https://github.com/antoninoLorenzo/AI-OPS): Penetration testing assistant built on open-source LLMs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0x0pointer/agent-smith?style=social) [**agent-smith**](https://github.com/0x0pointer/agent-smith): Pentest framework where skills teach the LLM a methodology.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/andreashappe/cochise?style=social) [**cochise**](https://github.com/andreashappe/cochise): Autonomous assumed-breach penetration testing of Active Directory.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dbx0/executioner?style=social) [**Executioner**](https://github.com/dbx0/executioner): Local workspace where AI agent teams run an assessment in your scope.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/cylabcyberautonomy/Incalmo?style=social) [**Incalmo**](https://github.com/cylabcyberautonomy/Incalmo): LLM-driven network pentest tool for multistage attacks.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Stickman230/claude-pentest?style=social) [**claude-pentest**](https://github.com/Stickman230/claude-pentest): Claude Code plugin that runs pentest engagements through Kali over MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/webxos/phalanx?style=social) [**Phalanx**](https://github.com/webxos/phalanx): Multi-agent pentest framework with recon, exploit, and post-exploit agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nbshenxm/pentest-agent?style=social) [**PentestAgent (nbshenxm)**](https://github.com/nbshenxm/pentest-agent): Research framework that automates recon, vulnerability analysis, and exploitation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/InfSecLabs/PentestAssistant?style=social) [**PentestAssistant**](https://github.com/InfSecLabs/PentestAssistant): LLM web pentest assistant that runs nmap and sqlmap through tool calls.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/arthurgervais/mapta?style=social) [**MAPTA**](https://github.com/arthurgervais/mapta): Multi-agent system for autonomous web security assessment with exploit validation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/matank001/Moxy?style=social) [**Moxy**](https://github.com/matank001/Moxy): Intercepting-proxy DAST tool where an AI agent edits traffic and drives a browser.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lordx64/pentestkit?style=social) [**pentestkit**](https://github.com/lordx64/pentestkit): Multi-agent pentest framework where a verifier tries to exploit each candidate.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ABSllk/Hexestra?style=social) [**Hexestra**](https://github.com/ABSllk/Hexestra): Pentest workbench where a coding agent drives the browser, shell, and traffic.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZackSecurity/Zack-AI-Scanner?style=social) [**Zack AI Scanner**](https://github.com/ZackSecurity/Zack-AI-Scanner): Burp extension that runs an LLM against one request and sends the payloads.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sergio11/zero_trace_hacking_tool?style=social) [**ZeroTrace**](https://github.com/sergio11/zero_trace_hacking_tool): AI dorking tool for reconnaissance.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/YasodGinige/AutoPentester?style=social) [**AutoPentester**](https://github.com/YasodGinige/AutoPentester): LLM agent framework for automated penetration testing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/nishu2402/HEAVEN-Autonomous-Penetration-Testing?style=social) [**HEAVEN**](https://github.com/nishu2402/HEAVEN-Autonomous-Penetration-Testing): Autonomous pentest framework with a plan-act loop and a post-exploitation playbook.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/drcrypterdotru/sqlmap-skynet?style=social) [**SQLMap Skynet**](https://github.com/drcrypterdotru/sqlmap-skynet): AI-assisted SQLMap orchestration with an MCP server for agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/ares?style=social) [**Ares**](https://github.com/dreadnode/ares): LLM-coordinated red-team platform that chains Active Directory attack tools.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/prutxvi/cybersentry?style=social) [**CyberSentry**](https://github.com/prutxvi/cybersentry): Autonomous agent for website penetration testing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vmihalis/hacker-bob?style=social) [**Hacker Bob**](https://github.com/vmihalis/hacker-bob): Autonomous bug bounty hunter on a local MCP runtime.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/snow10100/pena?style=social) [**BreachSeek - PENA**](https://github.com/snow10100/pena): Multi-agent system that automates penetration testing.
+
+---
+
+### 🔎 Agentic Code Auditors
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=social) [**deepsec**](https://github.com/vercel-labs/deepsec): Security harness for codebase vulnerability scanning with coding agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/lintsinghua/DeepAudit?style=social) [**DeepAudit**](https://github.com/lintsinghua/DeepAudit): Multi-agent source-code auditor with Docker sandbox exploit validation. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/gadievron/raptor?style=social) [**Raptor**](https://github.com/gadievron/raptor): Claude Code agent for offensive and defensive security research.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/protectai/vulnhuntr?style=social) [**Vulnhuntr**](https://github.com/protectai/vulnhuntr): LLM vulnerability discovery that traces code paths to remotely exploitable bugs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Kritt-ai/open-kritt?style=social) [**Open Kritt**](https://github.com/Kritt-ai/open-kritt): Self-hosted platform where AI agents find and validate vulnerabilities in code.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/larlarua/AutoCVE?style=social) [**AutoCVE**](https://github.com/larlarua/AutoCVE): Multi-agent platform for vulnerability detection, verification, and reporting.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/capitalone/VulnHunter?style=social) [**VulnHunter**](https://github.com/capitalone/VulnHunter): Source-code hunter that drops findings it cannot prove exploitable.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/evilsocket/audit?style=social) [**audit**](https://github.com/evilsocket/audit): Claude agent pipeline that hunts vulnerabilities and writes proof-of-concept code.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/knostic/OpenAnt?style=social) [**OpenAnt**](https://github.com/knostic/OpenAnt): LLM-powered vulnerability discovery with a second adversarial verification stage.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/deonmenezes/mantishack?style=social) [**Mantishack**](https://github.com/deonmenezes/mantishack): Vulnerability pipeline that validates findings by simulating an attacker on the code.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/openhackai/OpenHack?style=social) [**OpenHack**](https://github.com/openhackai/OpenHack): Agent scanner that hunts and exploit-tests vulnerabilities in a codebase.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PlamenTSV/plamen?style=social) [**Plamen**](https://github.com/PlamenTSV/plamen): Agent swarm that audits smart contracts and node clients with PoC exploits.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dinosn/raptor-loop-hunt?style=social) [**raptor-loop-hunt**](https://github.com/dinosn/raptor-loop-hunt): Claude Code skill that loops a vulnerability hunt over a codebase.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/m4xxxxx/AIxVuln?style=social) [**AIxVuln**](https://github.com/m4xxxxx/AIxVuln): Multi-agent system that audits code and verifies findings with sandboxed PoCs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain?style=social) [**FuzzingBrain**](https://github.com/fuzzingbrain/afc-crs-all-you-need-is-a-fuzzing-brain): LLM system on OSS-Fuzz that finds vulnerabilities and builds proof-of-concept inputs.
+
+---
+
+### 🎯 Offensive Agent Skills
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxuya520/reverse-skill?style=social) [**reverse-skill**](https://github.com/zhaoxuya520/reverse-skill): Skill router that sends coding agents to reverse-engineering, pentest, and CTF tools.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-BugHunter?style=social) [**Claude-BugHunter**](https://github.com/elementalsouls/Claude-BugHunter): Claude Code skill bundle for bug hunting and external red-team work.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/SnailSploit/Claude-Red?style=social) [**Claude-Red**](https://github.com/SnailSploit/Claude-Red): Offensive-security skill library that primes Claude for specific attack surfaces.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=social) [**ctf-skills**](https://github.com/ljagiello/ctf-skills): Agent skills for CTF challenges across web, pwn, crypto, reversing, and forensics.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/elementalsouls/Claude-OSINT?style=social) [**Claude-OSINT**](https://github.com/elementalsouls/Claude-OSINT): Claude skills that prime the model for offensive recon and exposure checks.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yaklang/hack-skills?style=social) [**hack-skills**](https://github.com/yaklang/hack-skills): Hacking skill library agents load for web, Active Directory, pwn, and mobile.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0xSteph/pentest-ai-agents?style=social) [**pentest-ai-agents**](https://github.com/0xSteph/pentest-ai-agents): Offensive-security subagents for Claude Code.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/uphiago/recon-skills?style=social) [**recon-skills**](https://github.com/uphiago/recon-skills): Agent skills for external recon, web and API testing, and attack paths.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/SeaOf0/dsh-redteam-model?style=social) [**dsh-redteam-model**](https://github.com/SeaOf0/dsh-redteam-model): Red-team working modes and runtime plugins for the DeepSeek harness.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/BrownFineSecurity/iothackbot?style=social) [**IoTHackBot**](https://github.com/BrownFineSecurity/iothackbot): IoT security toolkit with Claude Code skills for vulnerability discovery.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/transilienceai/communitytools?style=social) [**communitytools**](https://github.com/transilienceai/communitytools): Claude Code skills, agents, and commands for pentesting and bug bounty.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/matty69v/Bug-Bounty-Agents?style=social) [**Bug-Bounty-Agents**](https://github.com/matty69v/Bug-Bounty-Agents): Drop-in agent personas for bug bounty recon, hunting, and PoC validation.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hypnguyen1209/offensive-claude?style=social) [**offensive-claude**](https://github.com/hypnguyen1209/offensive-claude): Offensive framework for Claude Code covering the kill chain.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/crazyMarky/pentest-skills?style=social) [**pentest-skills**](https://github.com/crazyMarky/pentest-skills): Pentest skills for Claude Code and Gemini CLI that turn requests into tool runs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ADScanPro/Claude-AD?style=social) [**Claude-AD**](https://github.com/ADScanPro/Claude-AD): Active Directory pentest playbook for Claude Code.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/awarexone/web3-bug-bounty-hunting-ai-skills?style=social) [**web3-bug-bounty-hunting-ai-skills**](https://github.com/awarexone/web3-bug-bounty-hunting-ai-skills): Claude Code skills for smart-contract bug bounty hunting.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/x-glacier/kali-pentest?style=social) [**kali-pentest**](https://github.com/x-glacier/kali-pentest): Kali pentest skill for Claude Code, OpenClaw, and Hermes Agent.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/zhaji2333/CkSKILLS?style=social) [**CkSKILLS**](https://github.com/zhaji2333/CkSKILLS): Skill library that turns researcher methodology into reusable bug-hunting skills.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/forefy/.context?style=social) [**forefy context**](https://github.com/forefy/.context): Agent skills for security audits, pentests, and bug bounty work.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Prohao42/aimy-skill?style=social) [**aimy-skill**](https://github.com/Prohao42/aimy-skill): Pentest skill for AI agents with an exploit-chain check flow.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hassan-algo/open-sesame?style=social) [**open-sesame**](https://github.com/hassan-algo/open-sesame): Claude Code pentest skills for web and network engagements.
+
+---
+
+### 🔌 Offensive MCP Bridges
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/six2dez/burp-ai-agent?style=social) [**Burp AI Agent**](https://github.com/six2dez/burp-ai-agent): Burp Suite extension that adds AI scanners and an MCP bridge for agents.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Wh0am123/MCP-Kali-Server?style=social) [**MCP-Kali-Server**](https://github.com/Wh0am123/MCP-Kali-Server): MCP server that gives an AI agent a Kali Linux machine and its tools.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/GH05TCREW/MetasploitMCP?style=social) [**MetasploitMCP**](https://github.com/GH05TCREW/MetasploitMCP): MCP server that lets an agent drive Metasploit.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/shinthink/blitzstrike?style=social) [**Blitz Strike**](https://github.com/shinthink/blitzstrike): MCP toolbelt that maps attack surface and verifies findings on a live target.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/PatrikFehrenbach/h1-brain?style=social) [**h1-brain**](https://github.com/PatrikFehrenbach/h1-brain): MCP server that links an assistant to HackerOne scopes and reports.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Cy-S3c/BurpMCP-Ultra?style=social) [**BurpMCP-Ultra**](https://github.com/Cy-S3c/BurpMCP-Ultra): MCP server that gives AI agents Burp Suite tools for scanning and fuzzing.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/sspsec/Scan-Spring-GO?style=social) [**Scan-Spring-GO**](https://github.com/sspsec/Scan-Spring-GO): Spring scanner that exposes its modules to AI clients over MCP.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/bhavsec/autopentest-ai?style=social) [**AutoPentest AI**](https://github.com/bhavsec/autopentest-ai): MCP server whose agents run web pentests.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/DMontgomery40/pentest-mcp?style=social) [**Pentest MCP**](https://github.com/DMontgomery40/pentest-mcp): MCP server that gives assessment agents nmap, Nuclei, and related tools.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/mwnickerson/bloodhound_mcp?style=social) [**bloodhound_mcp**](https://github.com/mwnickerson/bloodhound_mcp): MCP server that lets an LLM query BloodHound attack paths.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/hahwul/gori?style=social) [**gori**](https://github.com/hahwul/gori): Intercepting proxy whose MCP server lets AI agents drive the engagement.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ccq1/awsome_kali_MCPServers?style=social) [**awsome-kali-MCPServers**](https://github.com/ccq1/awsome_kali_MCPServers): MCP servers that expose Kali Linux tools to AI clients.
 
 ---
 
@@ -173,6 +295,7 @@
 - [**Pangea Attack Taxonomy**](https://pangea.cloud/resources/taxonomy/): Comprehensive taxonomy of AI/LLM attacks and vulnerabilities
 - [**AI Risk Taxonomy**](https://airisk.mit.edu/)
 - [**AIR-Bench 2024**](https://crfm.stanford.edu/helm/air-bench/latest/)
+- [**Offsec Harness Index**](https://offsecharnesses.ai/): Offensive AI harnesses named in vendor, CERT, and government reports, including general agents used in operations.
 
 ---
 
@@ -186,6 +309,14 @@
 - [**PromptTrace**](https://prompttrace.airedlab.com): Prompt injection and AI security 10 labs + 15-level CTF with real LLMs.
 - [**AI RiskAtlas**](https://riskatlas.principle.sg): Interactive LLM and agent security lab with incident cases and attack simulations
 - [**RansomLeak AI Security**](https://ransomleak.com/exercises/clawdbot-prompt-injection/): Browser exercise on indirect prompt injection against an AI assistant
+
+### 🚩 CTF Agents
+
+- ![GitHub Repo stars](https://img.shields.io/github/stars/verialabs/ctf-agent?style=social) [**ctf-agent**](https://github.com/verialabs/ctf-agent): Multi-model swarm that solves CTF challenges.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/yhy0/CHYing-agent?style=social) [**CHYing-agent**](https://github.com/yhy0/CHYing-agent): CTF agent from Tencent Cloud AI pentest hackathons.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/0ca/BoxPwnr?style=social) [**BoxPwnr**](https://github.com/0ca/BoxPwnr): Benchmarks LLM agents on HackTheBox, PortSwigger, and other security labs.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/NYU-LLM-CTF/nyuctf_agents?style=social) [**NYU CTF agents**](https://github.com/NYU-LLM-CTF/nyuctf_agents): LLM agents that solve CTF challenges for the NYU CTF Bench.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/QiantangCredit/heimdall-agent?style=social) [**Heimdall**](https://github.com/QiantangCredit/heimdall-agent): Self-hosted AI solver for CTF and security labs.
 
 ---
 
