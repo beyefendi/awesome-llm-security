@@ -8,6 +8,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 ## 🛠️ Tools
 
+![misused](https://img.shields.io/badge/misused-b91c1c?style=flat-square) A vendor, CERT, or government report names the project in a real operation.
+
 ### 🧰 Multi-Purpose Model Scanners
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/inkog-io/inkog?style=social) [**Inkog**](https://github.com/inkog-io/inkog) AI agent security scanner (CLI + MCP server) detects prompt injection, SQLi via LLM
@@ -37,7 +39,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 ### 🗡️ Autonomous Pentest Agents
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/scadastrangelove/rust-in-peace?style=social) [**rust-in-peace**](https://github.com/scadastrangelove/rust-in-peace): Agent-assisted vulnerability discovery for Rust, Android APKs, and AI agents.
-- ![GitHub Repo stars](https://img.shields.io/github/stars/kuaiyelink/HalberdStrike?style=social) [**HalberdStrike**](https://github.com/kuaiyelink/HalberdStrike): Pentest harness based on PentestGPT. Named in a vendor incident report.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/kuaiyelink/HalberdStrike?style=social) ![misused](https://img.shields.io/badge/misused-b91c1c?style=flat-square) [**HalberdStrike**](https://github.com/kuaiyelink/HalberdStrike): Pentest harness based on PentestGPT.
 
 ### 🔎 Agentic Code Auditors
 

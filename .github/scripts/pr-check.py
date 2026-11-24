@@ -26,6 +26,7 @@ GITHUB_LINE = re.compile(
     r"^- !\[GitHub (?:Repo )?stars\]\(https://img\.shields\.io/github/stars/"
     r"(?P<badge_owner>[^/]+)/(?P<badge_repo>[^)?]+)"
     r"(?:\?[^)]*)?\) "
+    r"(?:!\[[^\]]*\]\(https://img\.shields\.io/badge/[^)]+\) )*"
     r"\[\*\*(?P<name>[^*]+)\*\*\]\(https://github\.com/"
     r"(?P<link_owner>[^/]+)/(?P<link_repo>[^)/]+)/?\)"
     r"(?P<sep>[: ]+)\s*(?P<desc>.+)$"

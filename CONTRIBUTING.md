@@ -62,6 +62,10 @@ When unsure, ask in an issue before opening a PR.
 
 Do **not** invent a stars badge for a repo that does not exist. Badge `OWNER/REPO` and link must match.
 
+Optional labels sit between the stars badge and the name. Do not repeat a label's meaning in the description.
+
+![misused](https://img.shields.io/badge/misused-b91c1c?style=flat-square) A vendor, CERT, or government report names the project in a real operation.
+
 ---
 
 ## Description rules (required)
