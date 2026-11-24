@@ -43,6 +43,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 
 ### 🔎 Agentic Code Auditors
 
+- ![GitHub Repo stars](https://img.shields.io/github/stars/ZealynxSecurity/krait?style=social) [**Krait**](https://github.com/ZealynxSecurity/krait): Claude Code skill for Solidity auditing with adversarial review and proof-of-concept checks
+
 ### 🎯 Offensive Agent Skills
 
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razor-ai/openhunt?style=social) [**OpenHunt**](https://github.com/razor-ai/openhunt): Offensive-security agents and skills that run an engagement in Claude Code.
