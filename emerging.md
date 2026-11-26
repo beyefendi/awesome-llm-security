@@ -67,6 +67,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/knbtz65v2c-pixel/plumblint?style=social) [**Plumblint**](https://github.com/knbtz65v2c-pixel/plumblint): Local zero-dependency prompt-injection detector with published calibration and known bypasses
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultraprobe?style=social) [**UltraProbe**](https://github.com/ppcvote/ultraprobe): Deterministic CLI auditing system prompts and agent tool descriptions for missing prompt-injection defenses
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/ai-tool-guard?style=social) [**ai-tool-guard**](https://github.com/dortort/ai-tool-guard): Policy enforcement middleware for Vercel AI SDK tool calls: approvals, injection checks, redaction, and MCP drift
 
 ### 🔐 Agent Authorization & Governance
 
@@ -88,6 +89,8 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/osimmoapies/sipar?style=social) [**Sipar**](https://github.com/osimmoapies/sipar): Agent language whose runtime blocks model-derived data from reaching shell commands, file writes or network requests
 - ![GitHub Repo stars](https://img.shields.io/github/stars/kaygaaf/tattlr?style=social) [**tattlr**](https://github.com/kaygaaf/tattlr): Reads local coding-agent logs and can hook those agents to block risky tool calls
 - ![GitHub Repo stars](https://img.shields.io/github/stars/auditailhq/auditail?style=social) [**Auditail**](https://github.com/auditailhq/auditail): Policy checks for agent tool calls: spending limits, human approval, kill switch and tamper-evident audit log
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/agent-bound?style=social) [**agent-bound**](https://github.com/dortort/agent-bound): Android-style declarative permission manifests and runtime least-privilege enforcement for MCP servers
+- ![GitHub Repo stars](https://img.shields.io/github/stars/dortort/claude-plugins?style=social) [**TaintGuard (claude-plugins)**](https://github.com/dortort/claude-plugins): Claude Code session taint-tracking mod refusing risky tool calls after untrusted or sensitive inputs enter context
 
 ---
 
