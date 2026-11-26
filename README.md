@@ -337,6 +337,7 @@
 - [**ATLAS**](https://doi.org/10.5281/zenodo.21428133): Forensic study of prompt-injection cascades across a four-agent enterprise workflow
 - [**RELAY**](https://doi.org/10.5281/zenodo.21425933): Study of authority framing and laundered code in multi-agent CI/CD pipelines
 - [**Agent Skill Security Scan**](https://upskill.coach/research/agent-skill-security): Study of 121 agent skill repos and MCP servers scanned for prompt injection, secret exfiltration, and vulnerable deps
+- [**2026 Developer & AI Web App Surface Hygiene Benchmark**](https://zcoldwater.github.io/vibeshield-action/security-txt-sourcemap-benchmark-2026.html): Audit of 60 AI & dev web apps measuring RFC 9116 `security.txt` adoption, JS sourcemap leaks, and COOP headers
 
 ---
 
