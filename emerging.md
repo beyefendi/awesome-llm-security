@@ -67,6 +67,7 @@ These stay visible for discovery while they gain traction. On periodic review th
 - ![GitHub Repo stars](https://img.shields.io/github/stars/knbtz65v2c-pixel/plumblint?style=social) [**Plumblint**](https://github.com/knbtz65v2c-pixel/plumblint): Local zero-dependency prompt-injection detector with published calibration and known bypasses
 - ![GitHub Repo stars](https://img.shields.io/github/stars/markmishaev76/Prompt-Shield?style=social) [**Prompt Shield**](https://github.com/markmishaev76/Prompt-Shield): GitHub Action for detecting indirect prompt injection in CI/CD pipelines. 4-layer defense architecture
 - ![GitHub Repo stars](https://img.shields.io/github/stars/ppcvote/ultraprobe?style=social) [**UltraProbe**](https://github.com/ppcvote/ultraprobe): Deterministic CLI auditing system prompts and agent tool descriptions for missing prompt-injection defenses
+- ![GitHub Repo stars](https://img.shields.io/github/stars/Syntriq-GmbH/tarn?style=social) [**Tarn**](https://github.com/Syntriq-GmbH/tarn): Detects personal data in German text before it reaches an LLM, with Presidio entity names
 
 ### 🔐 Agent Authorization & Governance
 
